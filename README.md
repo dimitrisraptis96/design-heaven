@@ -11,14 +11,11 @@ Stunning open source design resources every designer/developer should know :nail
       </a>
     </em>
   </div> -->
-
-&nbsp;
+</p>
 
 ## Icon Libraries
  
 No end of beautiful **SVG** and **web font** icons that can be included to your next project :boom:
-
-&nbsp;
 
 1. [Feather icons](https://feathericons.com/)
    
