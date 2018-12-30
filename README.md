@@ -13,7 +13,7 @@ Stunning open source design resources every designer/developer should know :nail
   </div> -->
 </p>
 
-## Icon Libraries
+## Icons
  
 No end of beautiful **SVG** and **web font** icons that can be included to your next project :boom:
 
