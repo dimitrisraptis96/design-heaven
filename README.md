@@ -1,5 +1,5 @@
-# design-heaven
-Stunning open source design resources every designer/developer should know :nail_care:
+# design-heaven :angel::stars:
+Stunning open source design resources every designer/developer should know!
 
 <p align="center">
   <img src="assets/header.png" width="70%">
