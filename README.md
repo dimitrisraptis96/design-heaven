@@ -45,7 +45,6 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 
 &nbsp;
 
-<p align="center">🤘</p>
 <p align="center">
-<sub><sup>Made with love by <a href="https://twitter.com/d__raptis">@d__raptis</a></sup></sub>
+<sub><sup>Made with 🤘 by <a href="https://twitter.com/d__raptis">@d__raptis</a></sup></sub>
 </p>
