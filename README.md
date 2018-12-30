@@ -1,28 +1,22 @@
-# design-heaven :metal:
+# design-heaven
 Stunning open source design resources every designer/developer should know :nail_care:
 
-&nbsp;
-
-## Icon Libraries
- 
-No end of beautiful **SVG** and **web font** icons that can be included to your next project :boom:
-
-&nbsp;
-
 <p align="center">
-  <img src="assets/icons.png" width="70%">
-  <div align="center">
+  <img src="assets/header.png" width="70%">
+  <!-- <div align="center">
     <em style="font-size: small">
       Credits for the harmonic icon design go to 
       <a href="https://dribbble.com/shots/381273-Time-Place?list=popularoffset=10">
         Helvetic Brands®
       </a>
     </em>
-  </div>
-<!-- ![logo](assets/icons.png)
-*Credits for the harmonic icon design go to [Helvetic Brands®](https://dribbble.com/shots/381273-Time-Place?list=popular&offset=10)* -->
-</p>
+  </div> -->
 
+&nbsp;
+
+## Icon Libraries
+ 
+No end of beautiful **SVG** and **web font** icons that can be included to your next project :boom:
 
 &nbsp;
 
@@ -50,7 +44,7 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 
 ## License
 
-[MIT](/LICENSE.md)
+[MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 &nbsp;
 
