@@ -39,6 +39,21 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 
 &nbsp;
 
+## Fonts
+ 
+Really, who doesn't love a great **typeface**?! :abc:
+
+1. [Google Fonts](https://fonts.google.com/)
+
+   Google Fonts is a library of 900 libre licensed fonts, an interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS and Android.
+   
+2. [Behance](https://www.behance.net/search?content=projects&sort=appreciations&time=week&search=free%20font)
+
+   Behance is a network of sites and services specializing in self-promotion, including consulting, online portfolio sites and many free font resources. All you have to do is to add some clever search filters, such as 'free font'.
+
+3. []
+&nbsp;
+
 ## License
 
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
