@@ -1,5 +1,5 @@
-# design-heaven
-Stunning open source design resources every designer/developer should know :nail_care:
+# design-heaven :angel::stars:
+Stunning open source design resources every designer/developer should know! :ok_hand:
 
 <p align="center">
   <img src="assets/header.png" width="70%">
@@ -36,6 +36,29 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 5. [Font Awesome](https://fontawesome.com/)
 
    Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
+
+&nbsp;
+
+## Fonts
+ 
+Really, who doesn't love a great **typeface**?! :abc:
+
+1. [Google Fonts](https://fonts.google.com/)
+
+   Google Fonts is a library of 900 libre licensed fonts, an interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS and Android.
+   
+2. [Behance](https://www.behance.net/search?content=projects&sort=appreciations&time=week&search=free%20font)
+
+   Behance is a network of sites and services specializing in self-promotion, including consulting, online portfolio sites and many free font resources. All you have to do is to add some clever search filters, such as 'free font'.
+
+3. [Dafont](https://www.dafont.com/)
+   Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.
+
+4. [1001FreeFonts](https://www.1001freefonts.com/)
+   Download 41882 fonts in 21841 families for Windows, Mac and Linux. 1001 Free Fonts offers a huge selection of free fonts. New fonts are added daily.
+
+5. [FontSquirrel](https://www.fontsquirrel.com/)
+   Font Squirrel scours the internet for high quality, legitimately free fonts . Download thousands of completely legal, high quality, free fonts.
 
 &nbsp;
 
