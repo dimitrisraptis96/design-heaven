@@ -57,11 +57,23 @@ Really, who doesn't love a great **typeface**?! :abc:
 
 ## Design System
 
-Popular must-known **design systems** that can speed up design/development :rocket:
+Popular must-known **design systems** that can speed up development :rocket:
 
 1. **[Plasma](https://github.com/wework/plasma)**
 
 2. **[Grommet](https://github.com/grommet/grommet)**
+
+3. **[PLuralsight](https://design-system.pluralsight.com/)**
+
+4. **[Audi](https://www.audi.com/ci/en/guides/user-interface/introduction.html)**
+
+5. **[Polaris](https://polaris.shopify.com/)**
+
+6. **[Nachos](https://design.trello.com/)**
+
+7. **[Backpack](https://backpack.github.io/)**
+
+9. **[Primer](https://primer.style/)**
 
 &nbsp;
 
