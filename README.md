@@ -41,8 +41,8 @@ Really, who doesn't love a great **typeface**?! :abc:
 1. **[Google Fonts](https://fonts.google.com/)** - 
    Google Fonts is a library of 900 libre licensed fonts, an interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS and Android.
    
-2. **[Behance](https://www.behance.net/search?content=projects&sort=appreciations&time=week&search=free%20font)**
-   Behance is a network of sites and services specializing in self-promotion, including consulting, online portfolio sites and many free font resources. All you have to do is to add some clever search filters, such as 'free font'.
+2. **[Behance](https://www.behance.net/search?content=projects&sort=appreciations&time=week&search=free%20font)** -
+Behance is a network of sites and services specializing in self-promotion, including consulting, online portfolio sites and many free font resources. All you have to do is to add some clever search filters, such as 'free font'.
 
 3. **[Dafont](https://www.dafont.com/)** -
    Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.
@@ -75,6 +75,23 @@ Popular must-known **design systems** that can speed up development :rocket:
 
 9. **[Primer](https://primer.style/)**
 
+&nbsp;
+
+## Design Inspo
+
+1. Dribbbble
+2. Behance
+3. 99design
+4. Muzli
+5. Awaaards
+
+&nbsp;
+
+## Illustrations
+
+1. Undraw
+
+## 
 &nbsp;
 
 ## License
