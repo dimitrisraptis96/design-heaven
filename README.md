@@ -59,21 +59,32 @@ Behance is a network of sites and services specializing in self-promotion, inclu
 
 Popular must-known **design systems** that can speed up development :rocket:
 
-1. **[Plasma](https://github.com/wework/plasma)**
+- **[IBM Carbon](https://www.carbondesignsystem.com/)** by [IBM Cloud products]() - The Carbon Design System is IBM’s open-source design system for products and experiences.
 
-2. **[Grommet](https://github.com/grommet/grommet)**
+- **[Lightning](https://www.lightningdesignsystem.com/)** by [SalesForce](https://www.salesforce.com/eu/) - Create the world’s best enterprise app experiences.
+- **[Ant Design](https://ant.design/)** by [Alibaba](https://www.alibaba.com/) - An enterprise-class UI design language and React implementation.
 
-3. **[PLuralsight](https://design-system.pluralsight.com/)**
+- **[Mailchimp Patterns](https://ux.mailchimp.com/patterns)** by [Mailchimp](https://mailchimp.com/) - UX patterns by the Mailchimp design team
 
-4. **[Audi](https://www.audi.com/ci/en/guides/user-interface/introduction.html)**
+- **[Material UI](https://material-ui.com/)** by [Google](https://www.google.com/) - React components that implement Google's Material Design.
 
-5. **[Polaris](https://polaris.shopify.com/)**
+- **[Plasma](https://github.com/wework/plasma)** by [WeWork](https://www.wework.com/) - Plasma is a design system for creating sensible, modern interfaces.
 
-6. **[Nachos](https://design.trello.com/)**
+- **[Grommet](https://v2.grommet.io/)** by [HP Enterprise](https://www.hpe.com/emea_europe/en/home.html) - Build responsive and accessible mobile-first projects for the web with an easy to use component library.
 
-7. **[Backpack](https://backpack.github.io/)**
+- **[Pluralsight](https://design-system.pluralsight.com/)** by [Pluralsight](https://www.pluralsight.com/) - The UI building blocks for creating a cohesive design across Pluralsight products
 
-9. **[Primer](https://primer.style/)**
+- **[Audi](https://www.audi.com/ci/en/guides/user-interface/introduction.html)** by []() - 
+
+- **[Polaris](https://polaris.shopify.com/)** by []() - 
+
+- **[Nachos](https://design.trello.com/)** by []() - 
+
+- **[Backpack](https://backpack.github.io/)** by []() - 
+
+- **[Primer](https://primer.style/)** by []() - 
+
+For more check [here](http://repository.design/)
 
 &nbsp;
 
