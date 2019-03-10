@@ -1,8 +1,11 @@
 # design-heaven :angel::stars:
+
+Introduction
+------------
 Stunning open source design resources every designer/developer should know! :ok_hand:
 
 <p align="center">
-  <img src="assets/header.png" width="40%">
+  <img src="assets/header.png" width="20%">
   <!-- <div align="center">
     <em style="font-size: small">
       Credits for the harmonic icon design go to 
@@ -13,9 +16,20 @@ Stunning open source design resources every designer/developer should know! :ok_
   </div> -->
 </p>
 
-Icons
-=====
- 
+Table of Contents
+-----------------
+
+1. [Icons](#icons)
+2. [Fonts](#fonts)
+3. [Design Systems](#design-systems)
+4. [Design Inpiration](#design-inspiration)
+5. [Illustrations](#illustrations)
+
+Design Resources
+----------------
+
+### Icons
+
 No end of beautiful **SVG** and **web font** icons that can be included to your next project :boom:
 
 - **[Feather icons](https://feathericons.com/)** -
@@ -31,8 +45,7 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 
 &nbsp;
 
-Fonts
-=====
+### Fonts
  
 Really, who doesn't love a great **typeface**?! :abc:
 
@@ -49,8 +62,7 @@ Behance is a network of sites and services specializing in self-promotion, inclu
 
 &nbsp;
 
-Design Systems
-==============
+### Design Systems
 
 Popular must-known **design systems** that can speed up development :rocket:
 
@@ -73,8 +85,7 @@ For more, [click here](http://repository.design/)
 
 &nbsp;
 
-Design Inspiration
-==================
+### Design Inspiration
 
 - **[Dribbble](https://dribbble.com/)** - Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.
 - **[Behance](https://www.behance.net/)** - Showcase and discover the latest work from top online portfolios by creative professionals across industries.
@@ -85,19 +96,27 @@ Design Inspiration
 
 &nbsp;
 
-Illustrations
-=============
+### Illustrations
 
 - **[Undraw](http://undraw.co/)** - Open-source illustrations for every project you can imagine and create
 - **[Absurb](https://absurd.design/)** - What about surrealist illustrations for landing pages? Take every user on an individual journey through their own imagination.
 
-## 
 &nbsp;
 
-## 
+### Prototyping Tools
 
-## License
+Soon... 
 
+&nbsp;
+
+### Animation Tools
+
+Soon... 
+
+&nbsp;
+
+License
+-------
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 &nbsp;
