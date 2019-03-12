@@ -18,12 +18,13 @@ Stunning open source design resources every designer/developer should know! :ok_
 
 Table of Contents
 -----------------
-
-1. [Icons](#icons)
-2. [Fonts](#fonts)
-3. [Design Systems](#design-systems)
-4. [Design Inpiration](#design-inspiration)
+1. [Stock Images](#stock-images)
+2. [Stock Videos](#stock-videos)
+3. [Icons](#icons)
+4. [Fonts](#fonts)
 5. [Illustrations](#illustrations)
+6. [Design Systems](#design-systems)
+7. [Design Inpiration](#design-inspiration)
 
 Design Resources
 ----------------
@@ -32,15 +33,14 @@ Design Resources
 
 - **[Unsplash](https://unsplash.com/)** - Beautiful, free images and photos that you can download and use for any project.
 - **[Pexels](https://www.pexels.com)** - Free stock photos you can use everywhere.
-- **[Stocksnap](https://stocksnap.io/)** - High quality and high resolution stock images free from all copyright restrictions(CC0)
-- **[]()** - 
-- **[]()** - 
-- **[]()** - 
+- **[StockSnap](https://stocksnap.io/)** - High quality and high resolution stock images free from all copyright restrictions(CC0)
+- **[Pixabay](https://pixabay.com/)** - Over 1.6 million royalty free stock photos and videos shared by our generous community.
 
 ### Stock Videos
 
 - **[Mixkit](https://mixkit.co/)** - Extraordinary HD videos for you to use, completely free of charge.
 - **[Coverr](https://coverr.co/)** - Download royalty free (for personal and commercial use), unique and beautiful video footage for your website or any project.
+- **[Videvo](https://www.videvo.net/)** - Free HD stock footage & motion graphics for any project!
 
 ### Icons
 
@@ -72,6 +72,12 @@ Behance is a network of sites and services specializing in self-promotion, inclu
 - **[FontSquirrel](https://www.fontsquirrel.com/)** -
    Font Squirrel scours the internet for high quality, legitimately free fonts . Download thousands of completely legal, high quality, free fonts.
 
+### Illustrations
+
+- **[Undraw](http://undraw.co/)** - Open-source illustrations for every project you can imagine and create
+- **[Absurb](https://absurd.design/)** - What about surrealist illustrations for landing pages? Take every user on an individual journey through their own imagination.
+- **[FreePik](https://www.freepik.com/)** - More than 3 millions free vectors, PSD, photos and free icons.
+
 ### Design Systems
 
 Popular must-known **design systems** that can speed up development :rocket:
@@ -102,11 +108,7 @@ For more, [click here](http://repository.design/)
 - **[Land-Book](https://land-book.com/)** - We collect awesome websites to help creatives find inspiration & motivation to do rad stuff.
 - **[DesignMunk](https://designmunk.com/)** - The ultimate hand picked landing page inspirations from around the web.
 - **[CallToIdea](https://www.calltoidea.com/)** - Calltoidea is the unique place where you can find inspiration. A great tool created by a designer for web professionals.
-
-### Illustrations
-
-- **[Undraw](http://undraw.co/)** - Open-source illustrations for every project you can imagine and create
-- **[Absurb](https://absurd.design/)** - What about surrealist illustrations for landing pages? Take every user on an individual journey through their own imagination.
+- **[Deviant Art](https://www.deviantart.com)** - DeviantArt is the world's largest online social community for artists and art enthusiasts, allowing people to connect through the creation and sharing of art.
 
 ### Prototyping Tools
 
