@@ -93,6 +93,7 @@ For more, [click here](http://repository.design/)
 - **[awwwards.](https://www.awwwards.com/)** - Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 - **[Land-Book](https://land-book.com/)** - We collect awesome websites to help creatives find inspiration & motivation to do rad stuff.
 - **[DesignMunk](https://designmunk.com/)** - The ultimate hand picked landing page inspirations from around the web.
+- **[CallToIdea](https://www.calltoidea.com/)** - Calltoidea is the unique place where you can find inspiration. A great tool created by a designer for web professionals.
 
 &nbsp;
 
