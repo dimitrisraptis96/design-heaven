@@ -28,6 +28,20 @@ Table of Contents
 Design Resources
 ----------------
 
+### Stock Images
+
+- **[Unsplash](https://unsplash.com/)** - Beautiful, free images and photos that you can download and use for any project.
+- **[Pexels](https://www.pexels.com)** - Free stock photos you can use everywhere.
+- **[Stocksnap](https://stocksnap.io/)** - High quality and high resolution stock images free from all copyright restrictions(CC0)
+- **[]()** - 
+- **[]()** - 
+- **[]()** - 
+
+### Stock Videos
+
+- **[Mixkit](https://mixkit.co/)** - Extraordinary HD videos for you to use, completely free of charge.
+- **[Coverr](https://coverr.co/)** - Download royalty free (for personal and commercial use), unique and beautiful video footage for your website or any project.
+
 ### Icons
 
 No end of beautiful **SVG** and **web font** icons that can be included to your next project :boom:
@@ -43,8 +57,6 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 - **[Font Awesome](https://fontawesome.com/)** - 
    Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
 
-&nbsp;
-
 ### Fonts
  
 Really, who doesn't love a great **typeface**?! :abc:
@@ -59,8 +71,6 @@ Behance is a network of sites and services specializing in self-promotion, inclu
    Download 41882 fonts in 21841 families for Windows, Mac and Linux. 1001 Free Fonts offers a huge selection of free fonts. New fonts are added daily.
 - **[FontSquirrel](https://www.fontsquirrel.com/)** -
    Font Squirrel scours the internet for high quality, legitimately free fonts . Download thousands of completely legal, high quality, free fonts.
-
-&nbsp;
 
 ### Design Systems
 
@@ -83,8 +93,6 @@ Popular must-known **design systems** that can speed up development :rocket:
 
 For more, [click here](http://repository.design/)
 
-&nbsp;
-
 ### Design Inspiration
 
 - **[Dribbble](https://dribbble.com/)** - Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.
@@ -95,26 +103,18 @@ For more, [click here](http://repository.design/)
 - **[DesignMunk](https://designmunk.com/)** - The ultimate hand picked landing page inspirations from around the web.
 - **[CallToIdea](https://www.calltoidea.com/)** - Calltoidea is the unique place where you can find inspiration. A great tool created by a designer for web professionals.
 
-&nbsp;
-
 ### Illustrations
 
 - **[Undraw](http://undraw.co/)** - Open-source illustrations for every project you can imagine and create
 - **[Absurb](https://absurd.design/)** - What about surrealist illustrations for landing pages? Take every user on an individual journey through their own imagination.
 
-&nbsp;
-
 ### Prototyping Tools
 
 Soon... 
 
-&nbsp;
-
 ### Animation Tools
 
-Soon... 
-
-&nbsp;
+Soon...
 
 License
 -------
