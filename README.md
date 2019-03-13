@@ -25,6 +25,7 @@ Table of Contents
 5. [Illustrations](#illustrations)
 6. [Design Systems](#design-systems)
 7. [Design Inpiration](#design-inspiration)
+8. [Colors](#colors)
 
 Design Resources
 ----------------
@@ -109,6 +110,10 @@ For more, [click here](http://repository.design/)
 - **[DesignMunk](https://designmunk.com/)** - The ultimate hand picked landing page inspirations from around the web.
 - **[CallToIdea](https://www.calltoidea.com/)** - Calltoidea is the unique place where you can find inspiration. A great tool created by a designer for web professionals.
 - **[Deviant Art](https://www.deviantart.com)** - DeviantArt is the world's largest online social community for artists and art enthusiasts, allowing people to connect through the creation and sharing of art.
+
+### Colors 
+
+- **[ColorBox](https://www.colorbox.io/)** - Colorbox is a color tool to produce color sets
 
 ### Prototyping Tools
 
