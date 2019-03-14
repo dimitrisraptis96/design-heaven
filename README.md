@@ -120,9 +120,9 @@ For more, [click here](http://repository.design/)
 
 - **[ColorBox](https://www.colorbox.io/)** - Colorbox is a color tool to produce color sets
 - **[Color Tool](https://material.io/tools/color/)** - Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.
-- **[]()** -
-- **[]()** -
-- **[]()** -
+- **[Flat UI Colors](https://flatuicolors.com/)** - 280 handpicked colors ready for COPY & PASTE.
+- **[Color-hex](https://www.color-hex.com/color-palettes/)** - Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK)
+- **[Colorbook](https://www.colorbook.io/)** - Your hex color information and conversion source. We at colorbook have one mission: we want to give each color its place. Think of it as of a facebook of colors.
 
 ### Prototyping Tools
 
