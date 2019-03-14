@@ -110,14 +110,23 @@ For more, [click here](http://repository.design/)
 - **[DesignMunk](https://designmunk.com/)** - The ultimate hand picked landing page inspirations from around the web.
 - **[CallToIdea](https://www.calltoidea.com/)** - Calltoidea is the unique place where you can find inspiration. A great tool created by a designer for web professionals.
 - **[Deviant Art](https://www.deviantart.com)** - DeviantArt is the world's largest online social community for artists and art enthusiasts, allowing people to connect through the creation and sharing of art.
+- **[h69](https://www.h69.design/)** - Landing page colletions & Free resources for designers.
+- **[Lapa Ninja](https://www.lapa.ninja/)** - The best landing page design inspiration from around the web. 
 
 ### Colors 
 
 - **[ColorBox](https://www.colorbox.io/)** - Colorbox is a color tool to produce color sets
+- **[]()** -
+- **[]()** -
+- **[]()** -
+- **[]()** -
 
 ### Prototyping Tools
 
-Soon... 
+- **[Adobe XD]()** -
+- **[Sketch App]()** -
+- **[InVision Studio]()** -
+- **[Figma]()** -
 
 ### Animation Tools
 
