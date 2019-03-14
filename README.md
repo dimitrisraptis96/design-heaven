@@ -59,6 +59,7 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
    Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project.
 - **[Font Awesome](https://fontawesome.com/)** - 
    Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
+- **[The Noun Project](https://thenounproject.com/)** - Over 2 Million curated icons, created by a global community
 
 ### Fonts
  
