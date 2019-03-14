@@ -26,6 +26,8 @@ Table of Contents
 6. [Design Systems](#design-systems)
 7. [Design Inpiration](#design-inspiration)
 8. [Colors](#colors)
+9. [Prototyping Tools](#prototyping-tools)
+10. [Animation Tools](#animation-tools)
 
 Design Resources
 ----------------
@@ -116,21 +118,23 @@ For more, [click here](http://repository.design/)
 ### Colors 
 
 - **[ColorBox](https://www.colorbox.io/)** - Colorbox is a color tool to produce color sets
-- **[]()** -
+- **[Color Tool](https://material.io/tools/color/)** - Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.
 - **[]()** -
 - **[]()** -
 - **[]()** -
 
 ### Prototyping Tools
 
-- **[Adobe XD]()** -
+- **[Adobe XD CC]()** -
 - **[Sketch App]()** -
 - **[InVision Studio]()** -
 - **[Figma]()** -
+- **[UXPin]()** -
 
 ### Animation Tools
 
-Soon...
+- **[Keyframes](https://keyframes.app/)** - An insanely simple way to create CSS animations
+- **[Flinto](https://www.flinto.com/)** - Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
 
 License
 -------
