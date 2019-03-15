@@ -80,6 +80,7 @@ Behance is a network of sites and services specializing in self-promotion, inclu
 
 - **[Undraw](http://undraw.co/)** - Open-source illustrations for every project you can imagine and create
 - **[Absurb](https://absurd.design/)** - What about surrealist illustrations for landing pages? Take every user on an individual journey through their own imagination.
+- **[Ηumaaans](https://www.humaaans.com/)** - Mix-&-match illustrations of people with a design library
 - **[FreePik](https://www.freepik.com/)** - More than 3 millions free vectors, PSD, photos and free icons.
 
 ### Design Systems
