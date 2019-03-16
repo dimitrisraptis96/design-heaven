@@ -141,6 +141,7 @@ For more, [click here](http://repository.design/)
 - **[Flinto](https://www.flinto.com/)** - Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
 - **[LightBox](https://uselightbox.com/)** - LightBox is a 2D, Hand-Drawn animation package.
 - **[Spirit](https://spiritapp.io)** - The animation tool for the web.
+- **[Anime.js](https://animejs.com/)** - Anime.js is a lightweight Javascript animation library designed to help you make complex animations with ease
 
 ### 3D Mockups
 
