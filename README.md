@@ -83,6 +83,7 @@ Behance is a network of sites and services specializing in self-promotion, inclu
 - **[Avataaars](https://getavataaars.com/)** - Mix and match avatar illustrations. Combine clothes, hair, emotions, accessories, and colors. 
 - **[Ηumaaans](https://www.humaaans.com/)** - Mix-&-match illustrations of people with a design library
 - **[FreePik](https://www.freepik.com/)** - More than 3 millions free vectors, PSD, photos and free icons.
+- **[Blobmaker](https://www.blobmaker.app/)** - Create organic svg shapes in just a few seconds
 
 ### Design Systems
 
@@ -138,6 +139,7 @@ For more, [click here](http://repository.design/)
 
 - **[Keyframes](https://keyframes.app/)** - An insanely simple way to create CSS animations
 - **[Flinto](https://www.flinto.com/)** - Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
+- **[LightBox](https://uselightbox.com/)** - LightBox is a 2D, Hand-Drawn animation package.
 
 ### 3D Mockups
 
