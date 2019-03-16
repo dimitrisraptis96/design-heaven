@@ -140,6 +140,7 @@ For more, [click here](http://repository.design/)
 - **[Keyframes](https://keyframes.app/)** - An insanely simple way to create CSS animations
 - **[Flinto](https://www.flinto.com/)** - Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
 - **[LightBox](https://uselightbox.com/)** - LightBox is a 2D, Hand-Drawn animation package.
+- **[Spirit](https://spiritapp.io)** - The animation tool for the web.
 
 ### 3D Mockups
 
