@@ -75,6 +75,11 @@ Behance is a network of sites and services specializing in self-promotion, inclu
    Download 41882 fonts in 21841 families for Windows, Mac and Linux. 1001 Free Fonts offers a huge selection of free fonts. New fonts are added daily.
 - **[FontSquirrel](https://www.fontsquirrel.com/)** -
    Font Squirrel scours the internet for high quality, legitimately free fonts . Download thousands of completely legal, high quality, free fonts.
+- **[FontPair](https://fontpair.co/)** - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
+- **[Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/)** - The Typeface created by Chester Jenkins 
+- **[Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family)** - Free contemporary slab serif typeface
+- **[Clear Sans](https://01.org/clear-SANS)** - Clear Sans has been recognized as a versatile OpenType font for screen, print, and Web.
+- **[Google Noto Font](https://www.google.com/get/noto/)** - Beautiful and free fonts for all languages
 
 ### Illustrations
 
