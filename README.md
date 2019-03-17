@@ -38,9 +38,12 @@ Design Resources
 - **[Pexels](https://www.pexels.com)** - Free stock photos you can use everywhere.
 - **[StockSnap](https://stocksnap.io/)** - High quality and high resolution stock images free from all copyright restrictions(CC0)
 - **[Pixabay](https://pixabay.com/)** - Over 1.6 million royalty free stock photos and videos shared by our generous community.
+- **[Burst by Shopify](https://burst.shopify.com/)** - Download free, high-resolution images
+- **[reshot](https://www.reshot.com/)** - Handpicked, non-stocky images. Yours to use as you wish.
 
 ### Stock Videos
 
+- **[Pexels Videos](https://www.pexels.com/videos/)** - The best free videos shared by the Pexels community.
 - **[Mixkit](https://mixkit.co/)** - Extraordinary HD videos for you to use, completely free of charge.
 - **[Coverr](https://coverr.co/)** - Download royalty free (for personal and commercial use), unique and beautiful video footage for your website or any project.
 - **[Videvo](https://www.videvo.net/)** - Free HD stock footage & motion graphics for any project!
