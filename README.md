@@ -4,17 +4,11 @@ Introduction
 ------------
 Stunning open source design resources every designer/developer should know! :ok_hand:
 
-<p align="center">
-  <img src="assets/ouch.png" width="100%">
-  <!-- <div align="center">
-    <em style="font-size: small">
-      Credits for the harmonic icon design go to 
-      <a href="https://dribbble.com/shots/381273-Time-Place?list=popularoffset=10">
-        Helvetic Brands®
-      </a>
-    </em>
-  </div> -->
-</p>
+<a href="https://icons8.com/ouch">
+  <p align="center">
+    <img src="assets/ouch.png" width="100%">
+  </p>
+</a>
 
 Table of Contents
 -----------------
