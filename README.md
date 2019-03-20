@@ -50,8 +50,11 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 - **[Feather icons](https://feathericons.com/)** - Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
 - **[Font Awesome](https://fontawesome.com/)** - Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
 - **[Icons8](https://icons8.com/icons)** - Get free icons designed to combine perfectly and fit into the style of your design.
+- **[IconBros](https://www.iconbros.com/)** - 1227+ free icons grouped in 38 collections
 - **[Ionicons](https://ionicons.com/)** - Premium designed icons for use in web, iOS, Android, and desktop apps. Support for SVG and web font. Completely open source, MIT licensed and built by the Ionic Framework team.
 - **[Material Design icons](https://materialdesignicons.com/)** - Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project.
+- **[Οutlane](https://outlane.co/graphics/animated-svg-icons-pack/)** - The pack includes 100 hand-crafted animated vector icons that you can use on any website or app
+- **[Prefect Icons](http://www.perfecticons.com/)** - Download Free Perfect Vector Icons
 - **[The Noun Project](https://thenounproject.com/)** - Over 2 Million curated icons, created by a global community
 
 ### Fonts
@@ -134,7 +137,7 @@ For more, [click here](http://repository.design/)
 ### Animation Tools
 
 - **[Adobe After Effects](https://www.adobe.com/gr_en/products/aftereffects.html)** -  With After Effects CC, the industry-standard motion graphics and visual effects software, you can take any idea and make it move. 
-- **[Anime.js](https://animejs.com/)** - Anime.js is a lightweight Javascript animation library designed to help you make complex animations with ease
+- **[Anime.js](https://anim ejs.com/)** - Anime.js is a lightweight Javascript animation library designed to help you make complex animations with ease
 - **[Flinto](https://www.flinto.com/)** - Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
 - **[Keyframes](https://keyframes.app/)** - An insanely simple way to create CSS animations
 - **[LightBox](https://uselightbox.com/)** - LightBox is a 2D, Hand-Drawn animation package.
