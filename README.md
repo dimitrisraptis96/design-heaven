@@ -124,6 +124,9 @@ For more, [click here](http://repository.design/).
 - **[ColorBox](https://www.colorbox.io/)** - Colorbox is a color tool to produce color sets.
 - **[Color-hex](https://www.color-hex.com/color-palettes/)** - Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK).
 - **[Color Tool](https://material.io/tools/color/)** - Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.
+- **[Colors by Klart](https://klart.io/colors/)** - Colors is a 100% data-driven collection of color palettes.
+- **[Culrs](https://culrs.com/)** - Colors that work together are curated and fashioned into quality palettes that you can incorporate.
+- **[Eggradients](https://www.eggradients.com/)** - A gradient color palette containing +200 gradient background color.
 - **[Flat UI Colors](https://flatuicolors.com/)** - 280 handpicked colors ready for COPY & PASTE.
 
 ### Prototyping Tools
