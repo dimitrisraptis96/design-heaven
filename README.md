@@ -52,6 +52,7 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 - **[Icons8](https://icons8.com/icons)** - Get free icons designed to combine perfectly and fit into the style of your design.
 - **[IconBros](https://www.iconbros.com/)** - 1227+ free icons grouped in 38 collections.
 - **[Ionicons](https://ionicons.com/)** - Premium designed icons for use in web, iOS, Android, and desktop apps. Support for SVG and web font. Completely open source, MIT licensed and built by the Ionic Framework team.
+- **[iconmonstr](https://iconmonstr.com/)** - Discover 4432+ free icons in 307 collections
 - **[Material Design icons](https://materialdesignicons.com/)** - Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project.
 - **[Οutlane](https://outlane.co/graphics/animated-svg-icons-pack/)** - The pack includes 100 hand-crafted animated vector icons that you can use on any website or app.
 - **[Prefect Icons](http://www.perfecticons.com/)** - Download Free Perfect Vector Icons.
