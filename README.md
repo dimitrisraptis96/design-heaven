@@ -22,6 +22,7 @@ Table of Contents
 8. [Colors](#colors)
 9. [Prototyping Tools](#prototyping-tools)
 10. [Animation Tools](#animation-tools)
+11. [Mockup Tools](#mockups-tools)
 
 Design Resources
 ----------------
@@ -55,6 +56,7 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 - **[iconmonstr](https://iconmonstr.com/)** - Discover 4432+ free icons in 307 collections
 - **[Material Design icons](https://materialdesignicons.com/)** - Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project.
 - **[Οutlane](https://outlane.co/graphics/animated-svg-icons-pack/)** - The pack includes 100 hand-crafted animated vector icons that you can use on any website or app.
+- **[Potlab Icons](http://www.potlabicons.com)** - Animated SVG icons for web projects
 - **[Prefect Icons](http://www.perfecticons.com/)** - Download Free Perfect Vector Icons.
 - **[The Noun Project](https://thenounproject.com/)** - Over 2 Million curated icons, created by a global community.
 
@@ -148,8 +150,9 @@ For more, [click here](http://repository.design/).
 - **[LightBox](https://uselightbox.com/)** - LightBox is a 2D, Hand-Drawn animation package.
 - **[Spirit](https://spiritapp.io)** - The animation tool for the web.
 
-### 3D Mockups
+### Mockup Tools
 
+- **[Clean Mockups](https://cleanmock.com/)** - Create stunning mockups that make your design standout
 - **[Threed.io](http://threed.io)** - Generate 3D Mockups right in your Browser.
 
 License
