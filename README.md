@@ -30,6 +30,10 @@ Design Resources
 ### Stock Images
 
 - **[Burst by Shopify](https://burst.shopify.com/)** - Download free, high-resolution images.
+- **[Gratisography](https://gratisography.com/)** - The world's quirkiest collection of free high-resolution pictures you can use on your personal and commercial projects.
+- **[Life of Pix](https://www.lifeofpix.com/)** - Free high resolution photography.
+- **[Moose](https://photos.icons8.com/)** - A collection of stock photography in a single style. Good for collages. Free for commercial use.
+- **[New Old Stock](http://nos.twnsnd.co/)** - Vintage photos from the public archives.
 - **[Pexels](https://www.pexels.com)** - Free stock photos you can use everywhere.
 - **[Pixabay](https://pixabay.com/)** - Over 1.6 million royalty free stock photos and videos shared by our generous community.
 - **[reshot](https://www.reshot.com/)** - Handpicked, non-stocky images. Yours to use as you wish.
