@@ -75,6 +75,7 @@ Really, who doesn't love a great **typeface**?! :abc:
 - **[FontSquirrel](https://www.fontsquirrel.com/)** - Font Squirrel scours the internet for high quality, legitimately free fonts.
 - **[Google Fonts](https://fonts.google.com/)** - Google Fonts is a library of 900 libre licensed fonts, an interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS and Android.   
 - **[Google Noto Font](https://www.google.com/get/noto/)** - Beautiful and free fonts for all languages.
+- **[Type-Scale](https://type-scale.com/)** - Preview and choose the right type scale for your project.
 
 ### Illustrations
 
