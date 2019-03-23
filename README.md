@@ -43,6 +43,7 @@ Design Resources
 ### Stock Videos
 
 - **[Coverr](https://coverr.co/)** - Download royalty free (for personal and commercial use), unique and beautiful video footage for your website or any project.
+- **[Life of Vids](https://www.lifeofvids.com/)** - Free videos for personal & commercial uses. New videos added weekly.
 - **[Mixkit](https://mixkit.co/)** - Extraordinary HD videos for you to use, completely free of charge.
 - **[Pexels Videos](https://www.pexels.com/videos/)** - The best free videos shared by the Pexels community.
 - **[Videvo](https://www.videvo.net/)** - Free HD stock footage & motion graphics for any project.
