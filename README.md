@@ -116,7 +116,7 @@ Popular must-known **design systems** that can speed up development :rocket:
 - **[Polaris](https://polaris.shopify.com/)** by [Shopify](https://www.shopify.com/) - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
 - **[Primer](https://primer.style/)** by [Github](https://github.com/) - Resources, tooling, and design guidelines for building interfaces with GitHub’s design system.
 
-For more, [click here](http://repository.design/).
+For more, [click here](http://repository.design/) or [hit this](https://designsystemsrepo.com/).
 
 ### Design Inspiration
 
