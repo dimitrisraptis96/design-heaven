@@ -63,9 +63,10 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 - **[Material Design icons](https://materialdesignicons.com/)** - Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project.
 - **[Nucleo apop](https://nucleoapp.com/)** - Nucleo is a beautiful library of 26831 icons, and a powerful application to collect, customize and export all your icons.
 - **[Οutlane](https://outlane.co/graphics/animated-svg-icons-pack/)** - The pack includes 100 hand-crafted animated vector icons that you can use on any website or app.
-- **[Potlab Icons](http://www.potlabicons.com)** - Animated SVG icons for web projects
+- **[Potlab Icons](http://www.potlabicons.com)** - Animated SVG icons for web projects. 
 - **[Prefect Icons](http://www.perfecticons.com/)** - Download Free Perfect Vector Icons.
 - **[The Noun Project](https://thenounproject.com/)** - Over 2 Million curated icons, created by a global community.
+- **[Streamline 3.0](https://streamlineicons.com)** - Over 10.500 in three different weight. 
 
 ### Fonts
  
