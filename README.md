@@ -94,7 +94,7 @@ Really, who doesn't love a great **typeface**?! :abc:
 - **[FreePik](https://www.freepik.com/)** - More than 3 millions free vectors, PSD, photos and free icons.
 - **[Ηumaaans](https://www.humaaans.com/)** - Mix-&-match illustrations of people with a design library.
 - **[ManyPixels](https://gallery.manypixels.co/)** - Each week, discover royalty-free illustrations to power up your projects.
-- **[Ouch](https://icons8.com/ouch)**( - Free illustrations to class up your project.
+- **[Ouch](https://icons8.com/ouch)** - Free illustrations to class up your project.
 - **[Undraw](http://undraw.co/)** - Open-source illustrations for every project you can imagine and create.
 
 
