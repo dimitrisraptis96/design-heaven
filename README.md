@@ -56,10 +56,11 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 - **[Feather icons](https://feathericons.com/)** - Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
 - **[Font Awesome](https://fontawesome.com/)** - Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
 - **[Grommet Icons](https://icons.grommet.io/)** - Iconography for Grommet and React.js
-- **[Icons8](https://icons8.com/icons)** - Get free icons designed to combine perfectly and fit into the style of your design.
 - **[IconBros](https://www.iconbros.com/)** - 1227+ free icons grouped in 38 collections.
-- **[Ionicons](https://ionicons.com/)** - Premium designed icons for use in web, iOS, Android, and desktop apps. Support for SVG and web font. Completely open source, MIT licensed and built by the Ionic Framework team.
 - **[iconmonstr](https://iconmonstr.com/)** - Discover 4432+ free icons in 307 collections
+- **[Icons8](https://icons8.com/icons)** - Get free icons designed to combine perfectly and fit into the style of your design.
+- **[Ionicons](https://ionicons.com/)** - Premium designed icons for use in web, iOS, Android, and desktop apps. Support for SVG and web font. Completely open source, MIT licensed and built by the Ionic Framework team.
+- **[Ikonate](https://www.ikonate.com/)** - Fully customisable & accessible vector icons
 - **[Material Design icons](https://materialdesignicons.com/)** - Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project.
 - **[Nucleo apop](https://nucleoapp.com/)** - Nucleo is a beautiful library of 26831 icons, and a powerful application to collect, customize and export all your icons.
 - **[Οutlane](https://outlane.co/graphics/animated-svg-icons-pack/)** - The pack includes 100 hand-crafted animated vector icons that you can use on any website or app.
