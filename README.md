@@ -96,6 +96,7 @@ Really, who doesn't love a great **typeface**?! :abc:
 - **[FreePik](https://www.freepik.com/)** - More than 3 millions free vectors, PSD, photos and free icons.
 - **[IRA Design](https://iradesign.io/)** - With IRA Design, you can create amazing illustrations, using hand-drawn sketch components, a cool selection of 5 gradients and ai., svg. or png. formats.
 - **[Ηumaaans](https://www.humaaans.com/)** - Mix-&-match illustrations of people with a design library.
+- **[Lukasz Adam](https://lukaszadam.com/illustrations)** - Free vector art illustrations and icons. Available for personal and commercial use.
 - **[ManyPixels](https://gallery.manypixels.co/)** - Each week, discover royalty-free illustrations to power up your projects.
 - **[Ouch](https://icons8.com/ouch)** - Free illustrations to class up your project.
 - **[Undraw](http://undraw.co/)** - Open-source illustrations for every project you can imagine and create.
@@ -130,6 +131,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Deviant Art](https://www.deviantart.com)** - DeviantArt is the world's largest online social community for artists and art enthusiasts, allowing people to connect through the creation and sharing of art.
 - **[Dribbble](https://dribbble.com/)** - Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.
 - **[h69](https://www.h69.design/)** - Landing page colletions & Free resources for designers.
+- **[Httpster](https://httpster.net)** - Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
 - **[Land-Book](https://land-book.com/)** - We collect awesome websites to help creatives find inspiration & motivation to do rad stuff.
 - **[Lapa Ninja](https://www.lapa.ninja/)** - The best landing page design inspiration from around the web. 
 - **[Muzli](https://muz.li/)** - Muzli is a new-tab Chrome extension that instantly delivers relevant design stories and inspiration.
