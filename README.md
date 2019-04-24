@@ -166,6 +166,8 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Flinto](https://www.flinto.com/)** - Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
 - **[Keyframes](https://keyframes.app/)** - An insanely simple way to create CSS animations.
 - **[LightBox](https://uselightbox.com/)** - LightBox is a 2D, Hand-Drawn animation package.
+- **[Principle](https://principleformac.com/)** - Principle makes it easy to design animated and interactive user interfaces.
+- **[Lottie](https://airbnb.design/lottie/)** - Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time
 - **[Spirit](https://spiritapp.io)** - The animation tool for the web.
 
 ### Mockup Tools
