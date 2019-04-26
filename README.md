@@ -70,7 +70,7 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 - **[Prefect Icons](http://www.perfecticons.com/)** - Download Free Perfect Vector Icons.
 - **[Streamline 3.0](https://streamlineicons.com)** - Over 10.500 in three different weight. 
 - **[The Noun Project](https://thenounproject.com/)** - Over 2 Million curated icons, created by a global community.
-- **[Unicons](https://iconscout.com)** - 1000+ Pixel-perfect vector icons and Iconfont for your next project.
+- **[Unicons](https://iconscout.com/unicons)** - 1000+ Pixel-perfect vector icons and Iconfont for your next project.
 
 ### Fonts
  
