@@ -169,7 +169,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[LightBox](https://uselightbox.com/)** - LightBox is a 2D, Hand-Drawn animation package.
 - **[Principle](https://principleformac.com/)** - Principle makes it easy to design animated and interactive user interfaces.
 - **[Lottie](https://airbnb.design/lottie/)** - Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time
-- **[Spirit](https://spiritapp.io)** - The animation tool for the web.
+- **[Spirit](https://spiritapp.io)** - The ultimate tool to create high-quality animations directly in the browser.
 
 ### Mockup Tools
 
