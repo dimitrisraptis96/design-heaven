@@ -88,6 +88,7 @@ Really, who doesn't love a great **typeface**?! :abc:
 - **[FontSquirrel](https://www.fontsquirrel.com/)** - Font Squirrel scours the internet for high quality, legitimately free fonts.
 - **[Google Fonts](https://fonts.google.com/)** - Google Fonts is a library of 900 libre licensed fonts, an interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS and Android.   
 - **[Google Noto Font](https://www.google.com/get/noto/)** - Beautiful and free fonts for all languages.
+- **[Picas](https://picas.now.sh/)** - Generate Project Logo with Google Fonts
 - **[Type-Scale](https://type-scale.com/)** - Preview and choose the right type scale for your project.
 - **[Typewolf](https://www.typewolf.com/)** - Typewolf helps designers choose the perfect font combination for their next design project
 
