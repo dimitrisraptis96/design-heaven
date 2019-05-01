@@ -20,9 +20,10 @@ Table of Contents
 6. [Design Systems](#design-systems)
 7. [Design Inpiration](#design-inspiration)
 8. [Colors](#colors)
-9. [Prototyping Tools](#prototyping-tools)
-10. [Animation Tools](#animation-tools)
-11. [Mockup Tools](#mockups-tools)
+9. [Design Tools](#design-tools)
+10. [Prototyping Tools](#prototyping-tools)
+11. [Animation Tools](#animation-tools)
+12. [Mockup Tools](#mockups-tools)
 
 Design Resources
 ----------------
@@ -150,6 +151,10 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Eggradients](https://www.eggradients.com/)** - A gradient color palette containing +200 gradient background color.
 - **[Flat UI Colors](https://flatuicolors.com/)** - 280 handpicked colors ready for COPY & PASTE.
 - **[WebGradients](https://webgradients.com/)** - WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
+
+### Design Tools
+- **[Affinity]()** - 
+- **[Photoshop]()** -
 
 ### Prototyping Tools
 
