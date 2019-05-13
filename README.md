@@ -154,8 +154,8 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[WebGradients](https://webgradients.com/)** - WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 
 ### Design Tools
-- **[Affinity]()** - 
-- **[Photoshop]()** -
+- **[Affinity](https://affinity.serif.com/en-gb/)** - Affinity - the fastest, smoothest, most precise professional creative software.
+- **[Photoshop](https://www.adobe.com/gr_en/products/photoshop.html?sdid=9WGN461H&mv=search&ef_id=CjwKCAjwq-TmBRBdEiwAaO1en1jp9Ux7ycLXYYz0nhM3T95wo5_n01eJT8m3M-Fdvi2AoVvjrkJuCBoCIp0QAvD_BwE:G:s&s_kwcid=AL!3085!3!341241803267!e!!g!!photoshop)** - The industry standard in digital imaging and used by professionals worldwide for design, photography, video editing & more.
 
 ### Prototyping Tools
 
