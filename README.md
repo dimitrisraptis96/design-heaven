@@ -170,6 +170,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Adobe After Effects](https://www.adobe.com/gr_en/products/aftereffects.html)** -  With After Effects CC, the industry-standard motion graphics and visual effects software, you can take any idea and make it move. 
 - **[Animator by Haiku](https://www.haikuforteams.com/)** - Haiku Animator is the premier solution for creating cross-platform UI animations.
 - **[Anime.js](https://animejs.com/)** - Anime.js is a lightweight Javascript animation library designed to help you make complex animations with ease.
+- **[CSSFX](https://cssfx.dev/)** - Beautifully simple click-to-copy CSS effects
 - **[Flinto](https://www.flinto.com/)** - Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
 - **[Keyframes](https://keyframes.app/)** - An insanely simple way to create CSS animations.
 - **[LightBox](https://uselightbox.com/)** - LightBox is a 2D, Hand-Drawn animation package.
