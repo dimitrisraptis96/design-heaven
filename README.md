@@ -140,9 +140,11 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Land-Book](https://land-book.com/)** - We collect awesome websites to help creatives find inspiration & motivation to do rad stuff.
 - **[Lapa Ninja](https://www.lapa.ninja/)** - The best landing page design inspiration from around the web. 
 - **[Muzli](https://muz.li/)** - Muzli is a new-tab Chrome extension that instantly delivers relevant design stories and inspiration.
+- **[OnePageLove](https://onepagelove.com/)** - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
 
 ### Colors 
 
+- **[Accessible Color Matrix](https://toolness.github.io/accessible-color-matrix/)** - A tool to help designers build color palettes with combinations that conform with accessibility standards.
 - **[Colorbook](https://www.colorbook.io/)** - Your hex color information and conversion source. We at colorbook have one mission: we want to give each color its place. Think of it as of a facebook of colors.
 - **[ColorBox](https://www.colorbox.io/)** - Colorbox is a color tool to produce color sets.
 - **[Color-hex](https://www.color-hex.com/color-palettes/)** - Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK).
