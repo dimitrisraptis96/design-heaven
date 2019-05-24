@@ -55,6 +55,7 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 
 - **[Animaticons](http://animaticons.co/)** - Beautiful, customizable animated GIF icons
 - **[Eva Icons](https://akveo.github.io/eva-icons/#/)** - Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.   
+- **[Evericons](http://www.evericons.com)** - Evericons is a collection of 460+ well-crafted icons for your next project. 
 - **[Feather icons](https://feathericons.com/)** - Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
 - **[Font Awesome](https://fontawesome.com/)** - Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
 - **[Grommet Icons](https://icons.grommet.io/)** - Iconography for Grommet and React.js
