@@ -156,6 +156,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Culrs](https://culrs.com/)** - Colors that work together are curated and fashioned into quality palettes that you can incorporate.
 - **[Eggradients](https://www.eggradients.com/)** - A gradient color palette containing +200 gradient background color.
 - **[Flat UI Colors](https://flatuicolors.com/)** - 280 handpicked colors ready for COPY & PASTE.
+- **[Khroma](http://khroma.co/)** - Discover, search, and save color combinations you'll love.
 - **[Palx](https://palx.jxnblk.com/)** - Provide a single color value and Palx returns a full-spectrum color palette
 - **[WebGradients](https://webgradients.com/)** - WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 
