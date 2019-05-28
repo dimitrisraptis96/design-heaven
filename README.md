@@ -185,6 +185,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Principle](https://principleformac.com/)** - Principle makes it easy to design animated and interactive user interfaces.
 - **[Lottie](https://airbnb.design/lottie/)** - Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time
 - **[Spirit](https://spiritapp.io)** - The ultimate tool to create high-quality animations directly in the browser.
+- **[useAnimations](https://useanimations.com)** - Animated icons in Lottie Framework and After Effects for immediate implementation to your apps or websites.
 
 ### Mockup Tools
 
