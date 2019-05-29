@@ -144,6 +144,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Lapa Ninja](https://www.lapa.ninja/)** - The best landing page design inspiration from around the web. 
 - **[Muzli](https://muz.li/)** - Muzli is a new-tab Chrome extension that instantly delivers relevant design stories and inspiration.
 - **[OnePageLove](https://onepagelove.com/)** - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
+- **[Webframe](https://webframe.xyz/)** - Discover and be inspired by beautiful webapp designs
 
 ### Colors 
 
