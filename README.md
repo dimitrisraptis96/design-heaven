@@ -176,6 +176,11 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Sketch App](https://www.sketchapp.com/)** - Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.
 - **[UXPin](https://www.uxpin.com/)** - Design tool like no other. Prototypes that feel real, with powers of code components, logic, states and design systems.
 
+### Presentation Tools
+
+- **[Keynote](https://www.apple.com/keynote/)** - Keynote is the most powerful presentation app ever designed for a mobile device.
+- **[Microsoft PowerPoint](https://products.office.com/en/powerpoint)** - Microsoft PowerPoint is the best presentation software for meetings, industry talks and business proposals.
+
 ### Animation Tools
 
 - **[Adobe After Effects](https://www.adobe.com/gr_en/products/aftereffects.html)** -  With After Effects CC, the industry-standard motion graphics and visual effects software, you can take any idea and make it move. 
