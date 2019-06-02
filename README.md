@@ -178,8 +178,11 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 
 ### Presentation Tools
 
+
+- **[Google Slides](https://www.google.com/slides/about/)** - Create a new presentation and edit it with others at the same time — from your computer, phone or tablet.
 - **[Keynote](https://www.apple.com/keynote/)** - Keynote is the most powerful presentation app ever designed for a mobile device.
 - **[Microsoft PowerPoint](https://products.office.com/en/powerpoint)** - Microsoft PowerPoint is the best presentation software for meetings, industry talks and business proposals.
+- **[Slides](https://slides.com/)** - Slides is a place for creating, presenting and sharing presentations. The Slides editor is available right in your browser.
 
 ### Animation Tools
 
