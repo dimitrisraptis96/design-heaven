@@ -195,6 +195,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Anime.js](https://animejs.com/)** - Anime.js is a lightweight Javascript animation library designed to help you make complex animations with ease.
 - **[Animista](http://animista.net/)** - Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.
 - **[CSSFX](https://cssfx.dev/)** - Beautifully simple click-to-copy CSS effects
+- **[Easings](https://easings.net/)** - Easing functions specify the rate of change of a parameter over time.
 - **[Flinto](https://www.flinto.com/)** - Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
 - **[Keyframes](https://keyframes.app/)** - An insanely simple way to create CSS animations.
 - **[LightBox](https://uselightbox.com/)** - LightBox is a 2D, Hand-Drawn animation package.
