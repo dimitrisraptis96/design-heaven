@@ -20,7 +20,7 @@ Table of Contents
 6. [Design Systems](#design-systems)
 7. [Design Inpiration](#design-inspiration)
 8. [Colors](#colors)
-9. [Gradients](#gradiens)
+9. [Gradients](#gradients)
 10. [Design Tools](#design-tools)
 11. [Prototyping Tools](#prototyping-tools)
 12. [Presentation Tools](#presentation-tools)
