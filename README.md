@@ -22,8 +22,9 @@ Table of Contents
 8. [Colors](#colors)
 9. [Design Tools](#design-tools)
 10. [Prototyping Tools](#prototyping-tools)
-11. [Animation Tools](#animation-tools)
-12. [Mockup Tools](#mockups-tools)
+11. [Presentation Tools](#presentation-tools)
+12. [Animation Tools](#animation-tools)
+13. [Mockup Tools](#mockups-tools)
 
 Design Resources
 ----------------
