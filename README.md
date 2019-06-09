@@ -156,6 +156,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[ColorBox](https://www.colorbox.io/)** - Colorbox is a color tool to produce color sets.
 - **[Color-hex](https://www.color-hex.com/color-palettes/)** - Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK).
 - **[ColorQuote](https://www.felixjoy.co/colorquote#color-hero)** - Daily dose of color combination and inspirational quote cards for designers and developers
+- **[Color Safe](http://colorsafe.co/)** - Empowering designers with beautiful and accessible color palettes based on WCAG Guidelines of text and background contrast ratios.
 - **[Color Tool](https://material.io/tools/color/)** - Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.
 - **[Colors by Klart](https://klart.io/colors/)** - Colors is a 100% data-driven collection of color palettes.
 - **[Culrs](https://culrs.com/)** - Colors that work together are curated and fashioned into quality palettes that you can incorporate.
