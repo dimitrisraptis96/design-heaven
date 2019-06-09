@@ -165,6 +165,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 
 
 ### Gradients
+
 - **[Eggradients](https://www.eggradients.com/)** - A gradient color palette containing +200 gradient background color.
 - **[Grabient](https://www.grabient.com/)** - Beautiful and simple UI for generating web gradients.
 - **[Gradient Cards](https://gradients.cssgears.com)** - A simple and beautiful list of editable gradients
