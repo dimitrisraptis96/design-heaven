@@ -26,6 +26,7 @@ Table of Contents
 12. [Presentation Tools](#presentation-tools)
 13. [Animation Tools](#animation-tools)
 14. [Mockup Tools](#mockups-tools)
+15. [Web Accessibility](#web-accessibility)
 
 Design Resources
 ----------------
@@ -218,6 +219,11 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Facebook Design](https://facebook.design/toolsandresources/)** - A collection of free resources made by designers at Facebook
 - **[LS Graphics](https://www.ls.graphics/free)** - Branding mockups, devices mockups, scene creators and UI kits for free
 - **[Threed.io](http://threed.io)** - Generate 3D Mockups right in your Browser.
+
+
+### Web Accessibility
+
+- **[Contraste](https://contrasteapp.com/)** - Contraste is a simple app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
 
 License
 -------
