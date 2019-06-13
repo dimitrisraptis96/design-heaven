@@ -173,6 +173,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Grabient](https://www.grabient.com/)** - Beautiful and simple UI for generating web gradients.
 - **[Gradient Cards](https://gradients.cssgears.com)** - A simple and beautiful list of editable gradients
 - **[GradientsList](https://www.gradientslist.com)** - Gradients List is the biggest collection of gradients on the web.
+- **[uiGradients](https://uigradients.com/#IbizaSunset)** - A handpicked collection of beautiful color gradients for designers and developers.
 - **[WebGradients](https://webgradients.com/)** - WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 
 ### Design Tools
