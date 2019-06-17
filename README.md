@@ -221,7 +221,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Facebook Design](https://facebook.design/toolsandresources/)** - A collection of free resources made by designers at Facebook
 - **[LS Graphics](https://www.ls.graphics/free)** - Branding mockups, devices mockups, scene creators and UI kits for free
 - **[Threed.io](http://threed.io)** - Generate 3D Mockups right in your Browser.
-
+- **[Qurb](https://qurb.rishimohan.me/)** - Web-based free mockup generator
 
 ### Web Accessibility
 
