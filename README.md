@@ -113,6 +113,7 @@ Really, who doesn't love a great **typeface**?! :abc:
 - **[Ouch](https://icons8.com/ouch)** - Free illustrations to class up your project.
 - **[Stubborn Generator](https://stubborn.fun/)** - Stubborn Generator is a collection of 25 incredibly cool characters.
 - **[Undraw](http://undraw.co/)** - Open-source illustrations for every project you can imagine and create.
+- **[404 Illustrations](https://www.kapwing.com/404-illustrations)** - Trendy, ready to use images for your 404 page
 
 ### Design Systems
 
