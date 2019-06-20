@@ -78,6 +78,7 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 - **[The Noun Project](https://thenounproject.com/)** - Over 2 Million curated icons, created by a global community.
 - **[Unicons](https://iconscout.com/unicons)** - 1000+ Pixel-perfect vector icons and Iconfont for your next project.
 - **[useAnimations](https://useanimations.com)** - Animated icons in Lottie Framework and After Effects for immediate implementation to your apps or websites.
+- **[Zwicon](https://www.zwicon.com)** - Handcrafted iconset for your next project
 
 ### Fonts
  
