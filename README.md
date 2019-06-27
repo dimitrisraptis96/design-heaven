@@ -162,9 +162,9 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Colorbook](https://www.colorbook.io/)** - Your hex color information and conversion source. We at colorbook have one mission: we want to give each color its place. Think of it as of a facebook of colors.
 - **[ColorBox](https://www.colorbox.io/)** - Colorbox is a color tool to produce color sets.
 - **[Color-hex](https://www.color-hex.com/color-palettes/)** - Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK).
-- **[Color Hunt](https://colorhunt.co/)** - Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes
+- **[Color Hunt](https://colorhunt.co/)** - Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 - **[Color Lisa](http://www.colorlisa.com/)** - Color palette masterpieces from the world's greatest artists.
-- **[Color Quote](https://www.felixjoy.co/colorquote#color-hero)** - Daily dose of color combination and inspirational quote cards for designers and developers
+- **[Color Quote](https://www.felixjoy.co/colorquote#color-hero)** - Daily dose of color combination and inspirational quote cards for designers and developers.
 - **[Color Safe](http://colorsafe.co/)** - Empowering designers with beautiful and accessible color palettes based on WCAG Guidelines of text and background contrast ratios.
 - **[Color Space](https://mycolor.space/)** - Build beautiful color palettes by entering just one color.
 - **[Color Tool](https://material.io/tools/color/)** - Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.
@@ -172,6 +172,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Culrs](https://culrs.com/)** - Colors that work together are curated and fashioned into quality palettes that you can incorporate.
 - **[Flat UI Colors](https://flatuicolors.com/)** - 280 handpicked colors ready for COPY & PASTE.
 - **[Khroma](http://khroma.co/)** - Discover, search, and save color combinations you'll love.
+- **[Palettee app](https://palettte.app/)** - The definite palette editing and remapping tool.
 - **[Palx](https://palx.jxnblk.com/)** - Provide a single color value and Palx returns a full-spectrum color palette
 
 
