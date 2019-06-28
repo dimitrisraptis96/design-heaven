@@ -87,6 +87,7 @@ Really, who doesn't love a great **typeface**?! :abc:
 
 - **[1001FreeFonts](https://www.1001freefonts.com/)** - Download 41882 fonts in 21841 families for Windows, Mac and Linux. 1001 Free Fonts offers a huge selection of free fonts. New fonts are added daily.
 - **[Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family)** - Free contemporary slab serif typeface.
+- **[Archetype](https://archetypeapp.com/)** - Archetype makes beautiful web typography designs quick and easy to create.
 - **[Behance](https://www.behance.net/search?content=projects&sort=appreciations&time=week&search=free%20font)** - Behance is a network of sites and services specializing in self-promotion, including consulting, online portfolio sites and many free font resources. All you have to do is to add some clever search filters, such as 'free font'.
 - **[Clear Sans](https://01.org/clear-SANS)** - Clear Sans has been recognized as a versatile OpenType font for screen, print, and Web.
 - **[Cooper Hewitt](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/)** - The Typeface created by Chester Jenkins.
@@ -186,6 +187,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[WebGradients](https://webgradients.com/)** - WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 
 ### Design Tools
+
 - **[Affinity](https://affinity.serif.com/en-gb/)** - Affinity - the fastest, smoothest, most precise professional creative software.
 - **[Photoshop](https://www.adobe.com/products/photoshop.html)** - The industry standard in digital imaging and used by professionals worldwide for design, photography, video editing & more.
 - **[Procreate](https://procreate.art/)** - Procreate is the most powerful and intuitive digital illustration app available for iPad.
