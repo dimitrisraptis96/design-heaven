@@ -247,6 +247,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 ### UI Kits
 
 - **[Eva](https://eva.design/)** - Customizable Design System easily adaptable to your Brand. Available for Sketch with Mobile and Web component libraries.
+- **[Velocity UI Kit](https://www.invisionapp.com/inside-design/design-resources/design-system-dashboard-ui-kit/)** - A dashboard UI kit with a robust design system
 
 License
 -------
