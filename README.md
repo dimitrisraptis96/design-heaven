@@ -171,6 +171,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Color Safe](http://colorsafe.co/)** - Empowering designers with beautiful and accessible color palettes based on WCAG Guidelines of text and background contrast ratios.
 - **[Color Space](https://mycolor.space/)** - Build beautiful color palettes by entering just one color.
 - **[Color Tool](https://material.io/tools/color/)** - Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.
+- **[Colors by Eva Design System](https://colors.eva.design/)** - Generate color pallets using deep learning powered algorithm.
 - **[Colors by Klart](https://klart.io/colors/)** - Colors is a 100% data-driven collection of color palettes.
 - **[Culrs](https://culrs.com/)** - Colors that work together are curated and fashioned into quality palettes that you can incorporate.
 - **[Flat UI Colors](https://flatuicolors.com/)** - 280 handpicked colors ready for COPY & PASTE.
