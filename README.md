@@ -109,6 +109,7 @@ Really, who doesn't love a great **typeface**?! :abc:
 - **[Absurb](https://absurd.design/)** - What about surrealist illustrations for landing pages? Take every user on an individual journey through their own imagination.
 - **[Avataaars](https://getavataaars.com/)** - Mix and match avatar illustrations. Combine clothes, hair, emotions, accessories, and colors. 
 - **[Blobmaker](https://www.blobmaker.app/)** - Create organic svg shapes in just a few seconds.
+- **[Delesign](https://delesign.com/free-designs/graphics/)** - Use our royalty-free designs for your website, social media, blog, email newsletters, and more.
 - **[DrawKit](https://www.drawkit.io/)** - DrawKit is a collection of free, beautiful, customisable MIT licensed SVG illustrations in two styles
 - **[FreePik](https://www.freepik.com/)** - More than 3 millions free vectors, PSD, photos and free icons.
 - **[IRA Design](https://iradesign.io/)** - With IRA Design, you can create amazing illustrations, using hand-drawn sketch components, a cool selection of 5 gradients and ai., svg. or png. formats.
