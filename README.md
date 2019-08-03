@@ -76,6 +76,7 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 - **[Tilda Icons](https://tilda.cc/free-icons/)** - Free icons for Landing Pages. 700+ Icons/43 Themes!
 - **[Prefect Icons](http://www.perfecticons.com/)** - Download Free Perfect Vector Icons.
 - **[Remix Icons](https://remixicon.com/)** - Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
+- **[Slice](https://slice.design/glyphs)** - Various Perfectly Shaped Glyphs
 - **[Streamline 3.0](https://streamlineicons.com)** - Over 10.500 in three different weight. 
 - **[The Noun Project](https://thenounproject.com/)** - Over 2 Million curated icons, created by a global community.
 - **[Unicons](https://iconscout.com/unicons)** - 1000+ Pixel-perfect vector icons and Iconfont for your next project.
