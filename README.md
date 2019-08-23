@@ -188,6 +188,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 
 - **[Eggradients](https://www.eggradients.com/)** - A gradient color palette containing +200 gradient background color.
 - **[Grabient](https://www.grabient.com/)** - Beautiful and simple UI for generating web gradients.
+- **[Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/)** - A curated list of the best gradient websites across the internet.
 - **[Gradient Cards](https://gradients.cssgears.com)** - A simple and beautiful list of editable gradients
 - **[GradientsList](https://www.gradientslist.com)** - Gradients List is the biggest collection of gradients on the web.
 - **[uiGradients](https://uigradients.com/#IbizaSunset)** - A handpicked collection of beautiful color gradients for designers and developers.
