@@ -181,6 +181,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Culrs](https://culrs.com/)** - Colors that work together are curated and fashioned into quality palettes that you can incorporate.
 - **[Flat UI Colors](https://flatuicolors.com/)** - 280 handpicked colors ready for COPY & PASTE.
 - **[Khroma](http://khroma.co/)** - Discover, search, and save color combinations you'll love.
+- **[Muzli Colors](https://colors.muz.li/)** - Create Beautiful Color Schemes that works.
 - **[Palettee app](https://palettte.app/)** - The definite palette editing and remapping tool.
 - **[Palx](https://palx.jxnblk.com/)** - Provide a single color value and Palx returns a full-spectrum color palette
 - **[Tints and Shades generator](https://maketintsandshades.com/)** - Easily make tints and shades in 10% increments 
