@@ -236,6 +236,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Principle](https://principleformac.com/)** - Principle makes it easy to design animated and interactive user interfaces.
 - **[Lottie](https://airbnb.design/lottie/)** - Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time
 - **[Spirit](https://spiritapp.io)** - The ultimate tool to create high-quality animations directly in the browser.
+- **[SVG Artista](https://svgartista.net/)** - Little tool that helps you create SVG animations
 - **[Zdog](https://zzz.dog/)** - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG
 
 ### Mockup Tools
