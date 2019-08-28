@@ -178,6 +178,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Color Tool](https://material.io/tools/color/)** - Create, share, and apply color palettes to your UI, as well as measure the accessibility level of any color combination.
 - **[Colors by Eva Design System](https://colors.eva.design/)** - Generate color pallets using deep learning powered algorithm.
 - **[Colors by Klart](https://klart.io/colors/)** - Colors is a 100% data-driven collection of color palettes.
+- **[CopyPalette](https://copypalette.netlify.com)** - Hassle-free export your palette to SVG format
 - **[Culrs](https://culrs.com/)** - Colors that work together are curated and fashioned into quality palettes that you can incorporate.
 - **[Flat UI Colors](https://flatuicolors.com/)** - 280 handpicked colors ready for COPY & PASTE.
 - **[Khroma](http://khroma.co/)** - Discover, search, and save color combinations you'll love.
