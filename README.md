@@ -171,6 +171,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Color-hex](https://www.color-hex.com/color-palettes/)** - Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK).
 - **[Color Designer](https://colordesigner.io/)** - Just pick a color, and the app does the rest.  
 - **[Color Hunt](https://colorhunt.co/)** - Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
+- **[Colorinspire](https://www.colorinspire.io/)** - Curated color inspiration. Free to use for your next project.
 - **[Color Lisa](http://www.colorlisa.com/)** - Color palette masterpieces from the world's greatest artists.
 - **[Color Quote](https://www.felixjoy.co/colorquote#color-hero)** - Daily dose of color combination and inspirational quote cards for designers and developers.
 - **[Color Safe](http://colorsafe.co/)** - Empowering designers with beautiful and accessible color palettes based on WCAG Guidelines of text and background contrast ratios.
