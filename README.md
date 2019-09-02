@@ -187,6 +187,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Muzli Colors](https://colors.muz.li/)** - Create Beautiful Color Schemes that works.
 - **[Palettee app](https://palettte.app/)** - The definite palette editing and remapping tool.
 - **[Palx](https://palx.jxnblk.com/)** - Provide a single color value and Palx returns a full-spectrum color palette
+- **[Picular](https://picular.co/)** - A rocket fast primary color generator using Google's image search.
 - **[Tints and Shades generator](https://maketintsandshades.com/)** - Easily make tints and shades in 10% increments 
 
 ### Gradients
