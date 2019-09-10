@@ -228,6 +228,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 ### Animation Tools
 
 - **[Adobe After Effects](https://www.adobe.com/gr_en/products/aftereffects.html)** -  With After Effects CC, the industry-standard motion graphics and visual effects software, you can take any idea and make it move. 
+- **[Animate It](https://animateit.online/)** - Create GIFs and video animations easily on your own!
 - **[Animator by Haiku](https://www.haikuforteams.com/)** - Haiku Animator is the premier solution for creating cross-platform UI animations.
 - **[Anime.js](https://animejs.com/)** - Anime.js is a lightweight Javascript animation library designed to help you make complex animations with ease.
 - **[Animista](http://animista.net/)** - Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.
