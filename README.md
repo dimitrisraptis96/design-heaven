@@ -257,6 +257,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 
 - **[Contraste](https://contrasteapp.com/)** - Contraste is a simple app for checking the accessibility of text against the Web Content Accessibility Guidelines (WCAG).
 - **[Color Safe](http://colorsafe.co/)** - Empowering designers with beautiful and accessible color palettes based on WCAG Guidelines of text and background contrast ratios.
+- **[Hex Naw](https://hexnaw.com)** - A color accessibility tool for designers and developers.
 - **[Stark](https://www.getstark.co/)** - The plugin to help you design and build products that are accessible, ethical, and inclusive.
 - **[The A11Y Project](https://a11yproject.com)** - A community-driven effort to make web accessibility easier.
 
