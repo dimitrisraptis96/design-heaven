@@ -156,6 +156,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Dribbble](https://dribbble.com/)** - Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.
 - **[h69](https://www.h69.design/)** - Landing page colletions & Free resources for designers.
 - **[Httpster](https://httpster.net)** - Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
+- **[Hyperpixel](https://hyperpixel.io/)** - Discover the latest designs for your own inspiration from our curated list of landing pages.
 - **[Land-Book](https://land-book.com/)** - We collect awesome websites to help creatives find inspiration & motivation to do rad stuff.
 - **[Lapa Ninja](https://www.lapa.ninja/)** - The best landing page design inspiration from around the web. 
 - **[Muzli](https://muz.li/)** - Muzli is a new-tab Chrome extension that instantly delivers relevant design stories and inspiration.
