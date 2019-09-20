@@ -170,7 +170,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Colorable](https://colors.muz.li/)** - Color combination contrast tester.
 - **[Colorbook](https://www.colorbook.io/)** - Your hex color information and conversion source. We at colorbook have one mission: we want to give each color its place. Think of it as of a facebook of colors.
 - **[ColorBox](https://www.colorbox.io/)** - Colorbox is a color tool to produce color sets.
-- **[Color-hex](https://www.color-hex.com/color-palettes/)** - Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK).
+- **[Color-hex](https://www.color-hex.com/color-palettes/)** - Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK). 
 - **[Color Designer](https://colordesigner.io/)** - Just pick a color, and the app does the rest.  
 - **[Color Hunt](https://colorhunt.co/)** - Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 - **[Colorinspire](https://www.colorinspire.io/)** - Curated color inspiration. Free to use for your next project.
@@ -265,8 +265,8 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 ### UI Kits
 
 - **[Eva](https://eva.design/)** - Customizable Design System easily adaptable to your Brand. Available for Sketch with Mobile and Web component libraries.
-- **[UI Store](https://www.uistore.design/)** - 252 Free Handpicked UI Kits for your real life projects
-- **[Velocity UI Kit](https://www.invisionapp.com/inside-design/design-resources/design-system-dashboard-ui-kit/)** - A dashboard UI kit with a robust design system
+- **[UI Store](https://www.uistore.design/)** - 252 Free Handpicked UI Kits for your real life projects. 
+- **[Velocity UI Kit](https://www.invisionapp.com/inside-design/design-resources/design-system-dashboard-ui-kit/)** - A dashboard UI kit with a robust design system. 
 
 License
 -------
