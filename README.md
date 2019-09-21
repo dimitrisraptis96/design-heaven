@@ -212,6 +212,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 
 - **[Adobe XD CC](https://www.adobe.com/gr_en/products/xd.html)** - Design, prototype, and share engaging user experiences across platforms, screens, and devices with Adobe XD CC.
 - **[Figma](https://www.figma.com/)** - A better way to design. Design, prototype, and gather feedback all in one place with Figma.
+- **[Framerx](https://framer.com/x/)** - Create responsive layouts, design realistic prototypes, and bring everything closer to production—all in one place.
 - **[InVision Studio](https://www.invisionapp.com/studio)** - A new platform inspired by the world’s best design teams. Design, prototype, and animate—all in one place.
 - **[Sketch App](https://www.sketchapp.com/)** - Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.
 - **[UXPin](https://www.uxpin.com/)** - Design tool like no other. Prototypes that feel real, with powers of code components, logic, states and design systems.
