@@ -79,6 +79,7 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 - **[Slice](https://slice.design/glyphs)** - Various Perfectly Shaped Glyphs
 - **[Streamline 3.0](https://streamlineicons.com)** - Over 10.500 in three different weight. 
 - **[The Noun Project](https://thenounproject.com/)** - Over 2 Million curated icons, created by a global community.
+- **[Tilda Icons](https://tilda.cc/free-icons/)** - Free icons for landing pages
 - **[Unicons](https://iconscout.com/unicons)** - 1000+ Pixel-perfect vector icons and Iconfont for your next project.
 - **[useAnimations](https://useanimations.com)** - Animated icons in Lottie Framework and After Effects for immediate implementation to your apps or websites.
 - **[Zwicon](https://www.zwicon.com)** - Handcrafted iconset for your next project
