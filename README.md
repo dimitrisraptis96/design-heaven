@@ -116,6 +116,7 @@ Really, who doesn't love a great **typeface**?! :abc:
 - **[Delesign](https://delesign.com/free-designs/graphics/)** - Use our royalty-free designs for your website, social media, blog, email newsletters, and more.
 - **[DrawKit](https://www.drawkit.io/)** - DrawKit is a collection of free, beautiful, customisable MIT licensed SVG illustrations in two styles
 - **[FreePik](https://www.freepik.com/)** - More than 3 millions free vectors, PSD, photos and free icons.
+- **[Fresh Folk](http://fresh-folk.com/)** - An illustration library of people and objects
 - **[IRA Design](https://iradesign.io/)** - With IRA Design, you can create amazing illustrations, using hand-drawn sketch components, a cool selection of 5 gradients and ai., svg. or png. formats.
 - **[Ηumaaans](https://www.humaaans.com/)** - Mix-&-match illustrations of people with a design library.
 - **[Lukasz Adam](https://lukaszadam.com/illustrations)** - Free vector art illustrations and icons. Available for personal and commercial use.
