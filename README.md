@@ -271,6 +271,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Eva](https://eva.design/)** - Customizable Design System easily adaptable to your Brand. Available for Sketch with Mobile and Web component libraries.
 - **[UI Store](https://www.uistore.design/)** - 252 Free Handpicked UI Kits for your real life projects. 
 - **[Velocity UI Kit](https://www.invisionapp.com/inside-design/design-resources/design-system-dashboard-ui-kit/)** - A dashboard UI kit with a robust design system. 
+- **[Semantic UI kit for XD](https://theblog.adobe.com/semantic-ui-kit-xd-icons-templates-design-system/)** - Build your own custom design system with a free XD UI kit inspired by Semantic UI. Created by Ole Fredrik.
 - **[Square Dashboard UI kit](https://iconspace.co/product/square-dashboard-ui-kit/)** - Stylish dashboard UI kit for arious need
 
 License
