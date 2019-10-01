@@ -188,6 +188,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Flat UI Colors](https://flatuicolors.com/)** - 280 handpicked colors ready for COPY & PASTE.
 - **[Khroma](http://khroma.co/)** - Discover, search, and save color combinations you'll love.
 - **[Muzli Colors](https://colors.muz.li/)** - Create Beautiful Color Schemes that works.
+- **[Open Color](https://yeun.github.io/open-color/)** - Open color is an open-source color scheme.
 - **[Palettee app](https://palettte.app/)** - The definite palette editing and remapping tool.
 - **[Palx](https://palx.jxnblk.com/)** - Provide a single color value and Palx returns a full-spectrum color palette
 - **[Picular](https://picular.co/)** - A rocket fast primary color generator using Google's image search.
