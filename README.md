@@ -119,6 +119,7 @@ Really, who doesn't love a great **typeface**?! :abc:
 - **[Fresh Folk](http://fresh-folk.com/)** - An illustration library of people and objects
 - **[IRA Design](https://iradesign.io/)** - With IRA Design, you can create amazing illustrations, using hand-drawn sketch components, a cool selection of 5 gradients and ai., svg. or png. formats.
 - **[Ηumaaans](https://www.humaaans.com/)** - Mix-&-match illustrations of people with a design library.
+- **[Glaze Illustrations](https://www.glazestock.com)** - Free illustrations, for everything
 - **[Lukasz Adam](https://lukaszadam.com/illustrations)** - Free vector art illustrations and icons. Available for personal and commercial use.
 - **[ManyPixels](https://gallery.manypixels.co/)** - Each week, discover royalty-free illustrations to power up your projects.
 - **[Mixkit](https://mixkit.co/)** - Mixkit is a curated gallery of high-quality videos and art, made by some of the world’s most talented creators, with all content licensed for free.
