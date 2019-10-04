@@ -15,19 +15,20 @@ Table of Contents
 1. [Stock Images](#stock-images)
 2. [Stock Videos](#stock-videos)
 3. [Icons](#icons)
-4. [Fonts](#fonts)
-5. [Illustrations](#illustrations)
-6. [Design Systems](#design-systems)
-7. [Design Inpiration](#design-inspiration)
-8. [Colors](#colors)
-9. [Gradients](#gradients)
-10. [Design Tools](#design-tools)
-11. [Prototyping Tools](#prototyping-tools)
-12. [Presentation Tools](#presentation-tools)
-13. [Animation Tools](#animation-tools)
-14. [Mockup Tools](#mockup-tools)
-15. [Web Accessibility](#web-accessibility)
-16. [UI kits](#ui-kits)
+4. [Animated Icons](#animated-icons)
+5. [Fonts](#fonts)
+6. [Illustrations](#illustrations)
+7. [Design Systems](#design-systems)
+8. [Design Inpiration](#design-inspiration)
+9. [Colors](#colors)
+10. [Gradients](#gradients)
+11. [Design Tools](#design-tools)
+12. [Prototyping Tools](#prototyping-tools)
+13. [Presentation Tools](#presentation-tools)
+14. [Animation Tools](#animation-tools)
+15. [Mockup Tools](#mockup-tools)
+16. [Web Accessibility](#web-accessibility)
+17. [UI kits](#ui-kits)
 
 Design Resources
 ----------------
@@ -57,7 +58,6 @@ Design Resources
 
 No end of beautiful **SVG** and **web font** icons that can be included to your next project. :boom:
 
-- **[Animaticons](http://animaticons.co/)** - Beautiful, customizable animated GIF icons
 - **[Eva Icons](https://akveo.github.io/eva-icons/#/)** - Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.   
 - **[Evericons](http://www.evericons.com)** - Evericons is a collection of 460+ well-crafted icons for your next project. 
 - **[Feather icons](https://feathericons.com/)** - Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
@@ -83,6 +83,11 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 - **[Unicons](https://iconscout.com/unicons)** - 1000+ Pixel-perfect vector icons and Iconfont for your next project.
 - **[useAnimations](https://useanimations.com)** - Animated icons in Lottie Framework and After Effects for immediate implementation to your apps or websites.
 - **[Zwicon](https://www.zwicon.com)** - Handcrafted iconset for your next project
+
+### Animated Icons
+
+- **[Animated Icons by Icon8](https://icons8.com/animated-icons)** - A free pack of 166 animated icons in JSON (Lottie), GIF, and After Effects formats.
+- **[Animated Icons by Icon8](https://icons8.com/animated-icons)** - A free pack of 166 animated icons in JSON (Lottie), GIF, and After Effects formats. 
 
 ### Fonts
  
