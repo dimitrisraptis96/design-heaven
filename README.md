@@ -87,7 +87,7 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 ### Animated Icons
 
 - **[Animated Icons by Icon8](https://icons8.com/animated-icons)** - A free pack of 166 animated icons in JSON (Lottie), GIF, and After Effects formats.
-- **[Animated Icons by Icon8](https://icons8.com/animated-icons)** - A free pack of 166 animated icons in JSON (Lottie), GIF, and After Effects formats. 
+- **[Animaticons](http://animaticons.co/)** - Beautiful, customizable animated GIF icons.
 
 ### Fonts
  
