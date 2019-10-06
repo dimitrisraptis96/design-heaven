@@ -1,4 +1,4 @@
-# design-heaven :angel::stars:
+# design-heaven :angel:
 
 Introduction
 ------------
