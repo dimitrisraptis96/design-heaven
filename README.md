@@ -159,6 +159,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[awwwards.](https://www.awwwards.com/)** - Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 - **[Behance](https://www.behance.net/)** - Showcase and discover the latest work from top online portfolios by creative professionals across industries.
 - **[CallToIdea](https://www.calltoidea.com/)** - Calltoidea is the unique place where you can find inspiration. A great tool created by a designer for web professionals.
+- **[CSS Design Awards](https://www.cssdesignawards.com)** - A web design & development award platform for digital folk, UI/UX peeps and inspiring leaders of the web.
 - **[DesignMunk](https://designmunk.com/)** - The ultimate hand picked landing page inspirations from around the web.
 - **[Deviant Art](https://www.deviantart.com)** - DeviantArt is the world's largest online social community for artists and art enthusiasts, allowing people to connect through the creation and sharing of art.
 - **[Dribbble](https://dribbble.com/)** - Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.
@@ -170,6 +171,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Muzli](https://muz.li/)** - Muzli is a new-tab Chrome extension that instantly delivers relevant design stories and inspiration.
 - **[OnePageLove](https://onepagelove.com/)** - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
 - **[Pttrns](https://pttrns.com/)** - Pttrns is the finest collection of mobile design patterns, resources and inspiration.
+- **[The FWA](https://thefwa.com/)** - Showcasing innovation every day since 2000.
 - **[Webframe](https://webframe.xyz/)** - Discover and be inspired by beautiful webapp designs
 
 ### Colors 
