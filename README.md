@@ -172,6 +172,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[OnePageLove](https://onepagelove.com/)** - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
 - **[Pttrns](https://pttrns.com/)** - Pttrns is the finest collection of mobile design patterns, resources and inspiration.
 - **[The FWA](https://thefwa.com/)** - Showcasing innovation every day since 2000.
+- **[UI Garage](https://uigarage.net)** - Daily handpicked UI inspiration & patterns.
 - **[Webframe](https://webframe.xyz/)** - Discover and be inspired by beautiful webapp designs
 
 ### Colors 
