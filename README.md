@@ -262,6 +262,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 
 - **[Clean Mockups](https://cleanmock.com/)** - Create stunning mockups that make your design standout
 - **[Facebook Design](https://facebook.design/toolsandresources/)** - A collection of free resources made by designers at Facebook
+- **[Frrames](https://frrames.com/)** - Your perfect design in perfect mockup frame.
 - **[LS Graphics](https://www.ls.graphics/free)** - Branding mockups, devices mockups, scene creators and UI kits for free
 - **[Mockup World](https://www.mockupworld.co/all-mockups/)** - The best free Mockups from the Web
 - **[UX Planet list](https://uxplanet.org/free-macbook-mockups-psd-sketch-369d20b5638b)** - A great list of free MacBook Mockups
