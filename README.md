@@ -174,6 +174,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Pttrns](https://pttrns.com/)** - Pttrns is the finest collection of mobile design patterns, resources and inspiration.
 - **[The FWA](https://thefwa.com/)** - Showcasing innovation every day since 2000.
 - **[UI Garage](https://uigarage.net)** - Daily handpicked UI inspiration & patterns.
+- **[UI Movement](https://uimovement.com/)** - The best UI design inspiration, every day.
 - **[Webframe](https://webframe.xyz/)** - Discover and be inspired by beautiful webapp designs
 
 ### Colors 
