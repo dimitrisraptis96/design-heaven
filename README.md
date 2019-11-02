@@ -131,6 +131,7 @@ Really, who doesn't love a great **typeface**?! :abc:
 - **[Lukasz Adam](https://lukaszadam.com/illustrations)** - Free vector art illustrations and icons. Available for personal and commercial use.
 - **[ManyPixels](https://gallery.manypixels.co/)** - Each week, discover royalty-free illustrations to power up your projects.
 - **[Mixkit](https://mixkit.co/)** - Mixkit is a curated gallery of high-quality videos and art, made by some of the world’s most talented creators, with all content licensed for free.
+- **[Open Doodles](https://www.opendoodles.com/)** - Free sketchy illustrations by Pablo Stanley.
 - **[Ouch](https://icons8.com/ouch)** - Free illustrations to class up your project.
 - **[Stubborn Generator](https://stubborn.fun/)** - Stubborn Generator is a collection of 25 incredibly cool characters.
 - **[Undraw](http://undraw.co/)** - Open-source illustrations for every project you can imagine and create.
