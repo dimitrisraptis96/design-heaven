@@ -30,6 +30,7 @@ Table of Contents
 16. [Web Accessibility](#web-accessibility)
 17. [UI kits](#ui-kits)
 18. [User Flow Tools](#user-flow-tools)
+19. [AI Tools](#ai-tools)
 
 Design Resources
 ----------------
@@ -301,6 +302,10 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Lucidchart]()** - A web-based tool for creating diagrams, flow charts, sitemaps. 
 - **[Miro]()** - Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams.
 - **[Overflow]()** - A user flow diagramming tool tailored for designers.
+
+### AI Tools
+
+- **[Compress.Studio | Serverless Image Compression with Decentralized Storage](https://compress.studio/)** - A serverless image compression tool with a decentralized private storage.
 
 License
 -------
