@@ -305,7 +305,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 
 ### AI Tools
 
-- **[Compress.Studio | Serverless Image Compression with Decentralized Storage](https://compress.studio/)** - A serverless image compression tool with a decentralized private storage.
+- **[Compress.Studio](https://compress.studio/)** - A serverless image compression tool with a decentralized private storage.
 
 License
 -------
