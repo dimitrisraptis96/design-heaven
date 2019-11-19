@@ -76,7 +76,6 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 - **[Nucleo app](https://nucleoapp.com/)** - Nucleo is a beautiful library of 26831 icons, and a powerful application to collect, customize and export all your icons.
 - **[Οutlane](https://outlane.co/graphics/animated-svg-icons-pack/)** - The pack includes 100 hand-crafted animated vector icons that you can use on any website or app.
 - **[Potlab Icons](http://www.potlabicons.com)** - Animated SVG icons for web projects.
-- **[Tilda Icons](https://tilda.cc/free-icons/)** - Free icons for Landing Pages. 700+ Icons/43 Themes!
 - **[Prefect Icons](http://www.perfecticons.com/)** - Download Free Perfect Vector Icons.
 - **[Remix Icons](https://remixicon.com/)** - Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
 - **[Slice](https://slice.design/glyphs)** - Various Perfectly Shaped Glyphs
@@ -169,7 +168,6 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[DesignMunk](https://designmunk.com/)** - The ultimate hand picked landing page inspirations from around the web.
 - **[Deviant Art](https://www.deviantart.com)** - DeviantArt is the world's largest online social community for artists and art enthusiasts, allowing people to connect through the creation and sharing of art.
 - **[Dribbble](https://dribbble.com/)** - Dribbble is the leading destination to find & showcase creative work and home to the world's best design professionals.
-- **[FWA](https://thefwa.com/)** - Showcase cutting edge creativity, regardless of the medium or technology used.
 - **[h69](https://www.h69.design/)** - Landing page colletions & Free resources for designers.
 - **[Httpster](https://httpster.net)** - Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
 - **[Hyperpixel](https://hyperpixel.io/)** - Discover the latest designs for your own inspiration from our curated list of landing pages.
