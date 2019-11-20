@@ -304,6 +304,8 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 ### AI Tools
 
 - **[Compress.Studio](https://compress.studio/)** - A serverless image compression tool with a decentralized private storage.
+- **[Remove.bg](https://www.remove.bg/)** - Remove image background 100% automatically and free.
+- **[Trace by Sticker Mule](https://www.stickermule.com/trace)** - Remove the background from any image for free.
 
 License
 -------
