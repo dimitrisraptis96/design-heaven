@@ -73,6 +73,7 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 - **[Ikonate](https://www.ikonate.com/)** - Fully customisable & accessible vector icons
 - **[Material Design icons](https://materialdesignicons.com/)** - Material Design Icons' growing icon collection allows designers and developers targeting various platforms to download icons in the format, color and size they need for any project.
 - **[Milk Icons](https://milkicons.com)** - 1,000 free icons for startups.
+- **[Myicons](https://myicons.co/)** - 1800 Premium high quality line icons for professional website & apps.
 - **[Nucleo app](https://nucleoapp.com/)** - Nucleo is a beautiful library of 26831 icons, and a powerful application to collect, customize and export all your icons.
 - **[Οutlane](https://outlane.co/graphics/animated-svg-icons-pack/)** - The pack includes 100 hand-crafted animated vector icons that you can use on any website or app.
 - **[Potlab Icons](http://www.potlabicons.com)** - Animated SVG icons for web projects.
