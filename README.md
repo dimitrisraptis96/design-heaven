@@ -204,6 +204,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Flat UI Colors](https://flatuicolors.com/)** - 280 handpicked colors ready for COPY & PASTE.
 - **[HueSnap](https://www.huesnap.com/)** - Create beautiful color palettes to share and inspire others.
 - **[Khroma](http://khroma.co/)** - Discover, search, and save color combinations you'll love.
+- **[Leonardo](https://leonardocolor.io/)** - An open source contrast-based color generator by Adobe.
 - **[Muzli Colors](https://colors.muz.li/)** - Create Beautiful Color Schemes that works.
 - **[Open Color](https://yeun.github.io/open-color/)** - Open color is an open-source color scheme.
 - **[Palettee app](https://palettte.app/)** - The definite palette editing and remapping tool.
