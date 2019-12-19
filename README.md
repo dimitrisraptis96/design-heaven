@@ -162,6 +162,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 
 ### Design Inspiration
 
+- **[Abduzeedo](https://abduzeedo.com/tags/daily-inspiration)** - The most interesting designs/artworks/concepts curated by Abduzeedo's team to utterly inspire your day. 
 - **[awwwards.](https://www.awwwards.com/)** - Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 - **[Behance](https://www.behance.net/)** - Showcase and discover the latest work from top online portfolios by creative professionals across industries.
 - **[CallToIdea](https://www.calltoidea.com/)** - Calltoidea is the unique place where you can find inspiration. A great tool created by a designer for web professionals.
