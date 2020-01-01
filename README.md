@@ -128,6 +128,8 @@ Really, who doesn't love a great **typeface**?! :abc:
 - **[Fresh Folk](http://fresh-folk.com/)** - An illustration library of people and objects
 - **[Freellustrations](https://freellustrations.com/)** - Download Free illustrations and vector images for website backgrounds and landing pages.
 - **[IRA Design](https://iradesign.io/)** - With IRA Design, you can create amazing illustrations, using hand-drawn sketch components, a cool selection of 5 gradients and ai., svg. or png. formats.
+- **[Isometric](https://isometric.online/)** - Free isometric illustrations for designers, startups and companies
+- **[Isometric Love](https://www.isometriclove.com/)** - Cute isometric objects for your design.
 - **[Ηumaaans](https://www.humaaans.com/)** - Mix-&-match illustrations of people with a design library.
 - **[Glaze Illustrations](https://www.glazestock.com)** - Free illustrations, for everything
 - **[Lukasz Adam](https://lukaszadam.com/illustrations)** - Free vector art illustrations and icons. Available for personal and commercial use.
