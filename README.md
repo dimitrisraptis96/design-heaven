@@ -206,6 +206,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[CopyPalette](https://copypalette.netlify.com)** - Hassle-free export your palette to SVG format
 - **[Culrs](https://culrs.com/)** - Colors that work together are curated and fashioned into quality palettes that you can incorporate.
 - **[Flat UI Colors](https://flatuicolors.com/)** - 280 handpicked colors ready for COPY & PASTE.
+- **[HappyHues](https://www.happyhues.co/)** - Curated colors in context.
 - **[HueSnap](https://www.huesnap.com/)** - Create beautiful color palettes to share and inspire others.
 - **[Khroma](http://khroma.co/)** - Discover, search, and save color combinations you'll love.
 - **[Leonardo](https://leonardocolor.io/)** - An open source contrast-based color generator by Adobe.
