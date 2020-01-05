@@ -1,7 +1,7 @@
 # design-heaven :angel:
 
 ## Introduction
-------------
+
 Stunning **free** design resources every designer/developer should know! :ok_hand:
 
 <a href="https://icons8.com/ouch">
@@ -11,7 +11,7 @@ Stunning **free** design resources every designer/developer should know! :ok_han
 </a>
 
 ## Table of Contents
------------------
+
 1. [Stock Images](#stock-images)
 2. [Stock Videos](#stock-videos)
 3. [Icons](#icons)
@@ -32,8 +32,9 @@ Stunning **free** design resources every designer/developer should know! :ok_han
 18. [User Flow Tools](#user-flow-tools)
 19. [AI Tools](#ai-tools)
 
-## Design Resources
 ----------------
+
+## Design Resources
 
 ### Stock Images
 
