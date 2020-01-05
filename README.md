@@ -1,6 +1,4 @@
-# design-heaven :angel:
-
-## Introduction
+# DesignHeaven :angel:
 
 Stunning **free** design resources every designer/developer should know! :ok_hand:
 
