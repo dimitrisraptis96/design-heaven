@@ -1,6 +1,6 @@
 # design-heaven :angel:
 
-Introduction
+## Introduction
 ------------
 Stunning **free** design resources every designer/developer should know! :ok_hand:
 
@@ -10,7 +10,7 @@ Stunning **free** design resources every designer/developer should know! :ok_han
   </p>
 </a>
 
-Table of Contents
+## Table of Contents
 -----------------
 1. [Stock Images](#stock-images)
 2. [Stock Videos](#stock-videos)
@@ -32,7 +32,7 @@ Table of Contents
 18. [User Flow Tools](#user-flow-tools)
 19. [AI Tools](#ai-tools)
 
-Design Resources
+## Design Resources
 ----------------
 
 ### Stock Images
