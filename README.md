@@ -57,8 +57,6 @@ Stunning **free** design resources every designer/developer should know! :ok_han
 
 ### Icons
 
-No end of beautiful **SVG** and **web font** icons that can be included to your next project. :boom:
-
 - **[Eva Icons](https://akveo.github.io/eva-icons/#/)** - Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.   
 - **[Evericons](http://www.evericons.com)** - Evericons is a collection of 460+ well-crafted icons for your next project. 
 - **[Feather icons](https://feathericons.com/)** - Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
@@ -92,8 +90,6 @@ No end of beautiful **SVG** and **web font** icons that can be included to your 
 - **[useAnimations](https://useanimations.com)** - Animated icons in Lottie Framework and After Effects for immediate implementation to your apps or websites.
 
 ### Fonts
- 
-Really, who doesn't love a great **typeface**?! :abc:
 
 - **[1001FreeFonts](https://www.1001freefonts.com/)** - Download 41882 fonts in 21841 families for Windows, Mac and Linux. 1001 Free Fonts offers a huge selection of free fonts. New fonts are added daily.
 - **[Aleo](https://www.behance.net/gallery/8018673/ALEO-Free-Font-Family)** - Free contemporary slab serif typeface.
@@ -141,8 +137,6 @@ Really, who doesn't love a great **typeface**?! :abc:
 - **[404 Illustrations](https://www.kapwing.com/404-illustrations)** - Trendy, ready to use images for your 404 page
 
 ### Design Systems
-
-Popular must-known **design systems** that can speed up development :rocket:
 
 - **[Ant Design](https://ant.design/)** by [Alibaba](https://www.alibaba.com/) - An enterprise-class UI design language and React implementation.
 - **[Atlaskit](https://atlaskit.atlassian.com/)** by [Atlassian](https://atlassian.com/) - Atlassian's official UI library, built according to the Atlassian Design Guidelines.
