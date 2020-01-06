@@ -312,8 +312,9 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Trace by Sticker Mule](https://www.stickermule.com/trace)** - Remove the background from any image for free.
 - **[VisualEyes](https://www.visualeyes.design)** - Your virtual AI design assistant.
 
-License
 -------
+## License
+
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 &nbsp;
