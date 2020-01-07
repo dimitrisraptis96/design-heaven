@@ -17,7 +17,7 @@ Stunning **free** design resources every designer/developer should know! :ok_han
 5. [Fonts](#fonts)
 6. [Illustrations](#illustrations)
 7. [Design Systems](#design-systems)
-8. [Design Inpiration](#design-inspiration)
+8. [Design Inspiration](#design-inspiration)
 9. [Colors](#colors)
 10. [Gradients](#gradients)
 11. [Design Tools](#design-tools)
