@@ -134,6 +134,7 @@ Stunning **free** design resources every designer/developer should know! :ok_han
 - **[Ouch](https://icons8.com/ouch)** - Free illustrations to class up your project.
 - **[Stubborn Generator](https://stubborn.fun/)** - Stubborn Generator is a collection of 25 incredibly cool characters.
 - **[Undraw](http://undraw.co/)** - Open-source illustrations for every project you can imagine and create.
+- **[Wireframer](https://wireframer.art/)** - Flawless SVG content blocks for your wireframes.
 - **[404 Illustrations](https://www.kapwing.com/404-illustrations)** - Trendy, ready to use images for your 404 page
 
 ### Design Systems
