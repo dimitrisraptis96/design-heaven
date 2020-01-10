@@ -132,6 +132,7 @@ Stunning **free** design resources every designer/developer should know! :ok_han
 - **[Mixkit](https://mixkit.co/)** - Mixkit is a curated gallery of high-quality videos and art, made by some of the world’s most talented creators, with all content licensed for free.
 - **[Open Doodles](https://www.opendoodles.com/)** - Free sketchy illustrations by Pablo Stanley.
 - **[Ouch](https://icons8.com/ouch)** - Free illustrations to class up your project.
+- **[Scribbbles](https://www.scribbbles.design/)** - 100+ vectorized scribbbles to spice up your design projects.
 - **[Stubborn Generator](https://stubborn.fun/)** - Stubborn Generator is a collection of 25 incredibly cool characters.
 - **[Undraw](http://undraw.co/)** - Open-source illustrations for every project you can imagine and create.
 - **[Wireframer](https://wireframer.art/)** - Flawless SVG content blocks for your wireframes.
