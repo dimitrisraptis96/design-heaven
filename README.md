@@ -309,6 +309,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 ### Creative Tools
 
 - **[React-spring-visualizer](https://react-spring-visualizer.com/)** - Visualize your spring config for react-spring.
+- **[Spring Editor](https://springs.pomb.us/)** - Stiffness? Damping? Mass? Spring Editor.
 - **[Waveforms By Josh Comeau](https://pudding.cool/2018/02/waveforms/)** - An interactive guide that introduces and explores waveforms.
 
 ### AI Tools
