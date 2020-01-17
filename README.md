@@ -311,6 +311,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Poolside FM](https://poolside.fm/)** - FM is an online radio station, playing an infinity pool of summer sounds.
 - **[React-spring-visualizer](https://react-spring-visualizer.com/)** - Visualize your spring config for react-spring.
 - **[Spring Editor](https://springs.pomb.us/)** - Stiffness? Damping? Mass? Spring Editor.
+- **[Tinkersynth](https://tinkersynth.com/)** - Tinkersynth is an experimental art project. Create unique designs by manipulating whimsical machines and making serendipitous discoveries.
 - **[Waveforms By Josh Comeau](https://pudding.cool/2018/02/waveforms/)** - An interactive guide that introduces and explores waveforms.
 
 ### AI Tools
