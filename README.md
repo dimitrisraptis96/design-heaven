@@ -28,7 +28,8 @@ Stunning **free** design resources every designer/developer should know! :ok_han
 16. [Web Accessibility](#web-accessibility)
 17. [UI kits](#ui-kits)
 18. [User Flow Tools](#user-flow-tools)
-19. [AI Tools](#ai-tools)
+19. [Creative Tools](#creative-tools)
+20. [AI Tools](#ai-tools)
 
 ----------------
 
