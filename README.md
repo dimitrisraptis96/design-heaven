@@ -323,6 +323,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Remove.bg](https://www.remove.bg/)** - Remove image background 100% automatically and free.
 - **[Trace by Sticker Mule](https://www.stickermule.com/trace)** - Remove the background from any image for free.
 - **[VisualEyes](https://www.visualeyes.design)** - Your virtual AI design assistant.
+- **[Upscale Pics](https://upscalepics.com/)** - Enhance your images using AI.
 
 -------
 ## License
