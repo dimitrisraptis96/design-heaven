@@ -219,7 +219,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Eggradients](https://www.eggradients.com/)** - A gradient color palette containing +200 gradient background color.
 - **[Grabient](https://www.grabient.com/)** - Beautiful and simple UI for generating web gradients.
 - **[Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/)** - A curated list of the best gradient websites across the internet.
-- **[Gradient Cards](https://gradients.cssgears.com)** - A simple and beautiful list of editable gradients
+- **[Gradient Cards](https://gradients.cssgears.com)** - A simple and beautiful list of editable gradients.
 - **[Gradients.io](http://www.gradients.io/)** - Curated gradients for designers and developers.
 - **[GradientsList](https://www.gradientslist.com)** - Gradients List is the biggest collection of gradients on the web.
 - **[uiGradients](https://uigradients.com/#IbizaSunset)** - A handpicked collection of beautiful color gradients for designers and developers.
@@ -231,7 +231,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Photopea](https://www.photopea.com/)** - A perfect alternative to Photoshop or Gimp.
 - **[Photoshop](https://www.adobe.com/products/photoshop.html)** - The industry standard in digital imaging and used by professionals worldwide for design, photography, video editing & more.
 - **[Procreate](https://procreate.art/)** - Procreate is the most powerful and intuitive digital illustration app available for iPad.
-- **[Lunacy](https://icons8.com/lunacy)** - Free graphic design software with built-in design resources
+- **[Lunacy](https://icons8.com/lunacy)** - Free graphic design software with built-in design resources.
 
 ### Prototyping Tools
 
@@ -266,10 +266,10 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Keyframes](https://keyframes.app/)** - An insanely simple way to create CSS animations.
 - **[LightBox](https://uselightbox.com/)** - LightBox is a 2D, Hand-Drawn animation package.
 - **[Principle](https://principleformac.com/)** - Principle makes it easy to design animated and interactive user interfaces.
-- **[Lottie](https://airbnb.design/lottie/)** - Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time
+- **[Lottie](https://airbnb.design/lottie/)** - Lottie is an iOS, Android, and React Native library that renders After Effects animations in real time.
 - **[Spirit](https://spiritapp.io)** - The ultimate tool to create high-quality animations directly in the browser.
-- **[SVG Artista](https://svgartista.net/)** - Little tool that helps you create SVG animations
-- **[Zdog](https://zzz.dog/)** - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG
+- **[SVG Artista](https://svgartista.net/)** - Little tool that helps you create SVG animations.
+- **[Zdog](https://zzz.dog/)** - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG.
 
 ### Mockup Tools
 
