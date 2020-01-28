@@ -1,6 +1,6 @@
 # DesignHeaven :angel:
 
-Stunning **free** design resources every designer/developer should know! :ok_hand:
+Stunning **free** design resources for designers and developer! :ok_hand:
 
 <a href="https://icons8.com/ouch">
   <p align="center">
