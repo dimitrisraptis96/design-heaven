@@ -1,0 +1,16 @@
+{
+  "name": "design-heaven",
+  "version": "1.0.0",
+  "description": ":angel: Stunning open source design resources for designers and developers ",
+  "main": "index.js",
+  "repository": "git@github.com:dimitrisraptis96/design-heaven.git",
+  "author": "Dimitris Raptis <dimitrisraptis96@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "tool:add": "node ./scripts/add-tool.js"
+  },
+  "dependencies": {
+    "inquirer": "^7.0.4",
+    "slugify": "^1.3.6"
+  }
+}
