@@ -2,6 +2,8 @@ const { readFile, readdir, writeFile } = require("fs").promises;
 const { toSlug } = require("./slug");
 const path = require("path");
 
+// https://github.com/sindresorhus/awesome-nodejs#command-line-utilities
+
 const helpersDir = path.resolve(__dirname, "..", "tools");
 
 async function getHelpers() {
@@ -44,12 +46,9 @@ async function writeHelper(helper) {
 }
 
 function getTags(helpers) {
-  return [
-    ...helpers.reduce((acc, cur) => {
-      cur.tags.forEach(tag => acc.add(tag));
-      return acc;
-    }, new Set())
-  ].sort((a, b) => (a < b ? -1 : 1));
+  const tags = require("../categories.json").map(tag => tag.name);
+
+  return tags.sort((a, b) => (a < b ? -1 : 1));
 }
 
 module.exports.getTags = getTags;

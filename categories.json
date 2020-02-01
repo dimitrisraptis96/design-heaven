@@ -1,0 +1,22 @@
+[
+  { "name": "Stock Images", "id": "stock-images" },
+  { "name": "Stock Videos", "id": "stock-videos)" },
+  { "name": "Icons", "id": "icons" },
+  { "name": "Animated Icons", "id": "animated-icons" },
+  { "name": "Fonts", "id": "fonts" },
+  { "name": "Illustrations", "id": "illustrations" },
+  { "name": "Design Systems", "id": "design-systems" },
+  { "name": "Design Inspiration", "id": "design-inspiration" },
+  { "name": "Colors", "id": "colors" },
+  { "name": "Gradients", "id": "gradients" },
+  { "name": "Design Tools", "id": "design-tools" },
+  { "name": "Prototyping Tools", "id": "prototyping-tools" },
+  { "name": "Presentation Tools", "id": "presentation-tools" },
+  { "name": "Animation Tools", "id": "animation-tools" },
+  { "name": "Mockup Tools", "id": "mockup-tools" },
+  { "name": "Web Accessibility", "id": "web-accessibility" },
+  { "name": "UI kits", "id": "ui-kits" },
+  { "name": "User Flow Tools", "id": "user-flow-tools" },
+  { "name": "Creative Tools", "id": "creative-tools" },
+  { "name": "AI Tools", "id": "ai-tools" }
+]

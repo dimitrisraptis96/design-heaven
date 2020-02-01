@@ -11,7 +11,7 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 ## Table of Contents
 
 1. [Stock Images](#stock-images)
-2. [Stock Videos](#stock-videos)
+2. [Stock Videos](#stock-videos)z
 3. [Icons](#icons)
 4. [Animated Icons](#animated-icons)
 5. [Fonts](#fonts)
@@ -31,7 +31,7 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 19. [Creative Tools](#creative-tools)
 20. [AI Tools](#ai-tools)
 
-----------------
+---
 
 ## Design Resources
 
@@ -58,8 +58,8 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 
 ### Icons
 
-- **[Eva Icons](https://akveo.github.io/eva-icons/#/)** - Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.   
-- **[Evericons](http://www.evericons.com)** - Evericons is a collection of 460+ well-crafted icons for your next project. 
+- **[Eva Icons](https://akveo.github.io/eva-icons/#/)** - Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
+- **[Evericons](http://www.evericons.com)** - Evericons is a collection of 460+ well-crafted icons for your next project.
 - **[Feather icons](https://feathericons.com/)** - Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
 - **[Flaticon](https://www.flaticon.com)** - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
 - **[Font Awesome](https://fontawesome.com/)** - Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
@@ -78,7 +78,7 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 - **[Prefect Icons](http://www.perfecticons.com/)** - Download Free Perfect Vector Icons.
 - **[Remix Icons](https://remixicon.com/)** - Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
 - **[Slice](https://slice.design/glyphs)** - Various Perfectly Shaped Glyphs.
-- **[Streamline 3.0](https://streamlineicons.com)** - Over 10.500 in three different weight. 
+- **[Streamline 3.0](https://streamlineicons.com)** - Over 10.500 in three different weight.
 - **[The Noun Project](https://thenounproject.com/)** - Over 2 Million curated icons, created by a global community.
 - **[Tilda Icons](https://tilda.cc/free-icons/)** - Free icons for landing pages
 - **[Unicons](https://iconscout.com/unicons)** - 1000+ Pixel-perfect vector icons and Iconfont for your next project.
@@ -103,9 +103,9 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 - **[FontSpark](https://fontspark.app/)** - Helping designers discover the perfect font for their next design project.
 - **[FontSquirrel](https://www.fontsquirrel.com/)** - Font Squirrel scours the internet for high quality, legitimately free fonts.
 - **[Inter UI](https://github.com/rsms/inter/)** - Inter is a typeface specially designed for user interfaces.
-- **[Google Fonts](https://fonts.google.com/)** - Google Fonts is a library of 900 libre licensed fonts, an interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS and Android.   
+- **[Google Fonts](https://fonts.google.com/)** - Google Fonts is a library of 900 libre licensed fonts, an interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS and Android.
 - **[Google Noto Font](https://www.google.com/get/noto/)** - Beautiful and free fonts for all languages.
-- **[Leon Sans](https://leon-kim.com/)** - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim. 
+- **[Leon Sans](https://leon-kim.com/)** - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - **[Optician Sans](https://optician-sans.com)** - A free font based on the historical eye charts and optotypes used by opticians world wide.
 - **[Picas](https://picas.now.sh/)** - Generate Project Logo with Google Fonts
 - **[Type-Scale](https://type-scale.com/)** - Preview and choose the right type scale for your project.
@@ -115,7 +115,7 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 ### Illustrations
 
 - **[Absurb](https://absurd.design/)** - What about surrealist illustrations for landing pages? Take every user on an individual journey through their own imagination.
-- **[Avataaars](https://getavataaars.com/)** - Mix and match avatar illustrations. Combine clothes, hair, emotions, accessories, and colors. 
+- **[Avataaars](https://getavataaars.com/)** - Mix and match avatar illustrations. Combine clothes, hair, emotions, accessories, and colors.
 - **[Blobmaker](https://www.blobmaker.app/)** - Create organic svg shapes in just a few seconds.
 - **[Charco](https://www.karthiksrinivas.in/charco)** - A set of 16 handcrafted illustrations for your web & app projects by Karthik Srinivas.
 - **[Delesign](https://delesign.com/free-designs/graphics/)** - Use our royalty-free designs for your website, social media, blog, email newsletters, and more.
@@ -160,7 +160,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 
 ### Design Inspiration
 
-- **[Abduzeedo](https://abduzeedo.com/tags/daily-inspiration)** - The most interesting designs/artworks/concepts curated by Abduzeedo's team to utterly inspire your day. 
+- **[Abduzeedo](https://abduzeedo.com/tags/daily-inspiration)** - The most interesting designs/artworks/concepts curated by Abduzeedo's team to utterly inspire your day.
 - **[awwwards.](https://www.awwwards.com/)** - Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 - **[Behance](https://www.behance.net/)** - Showcase and discover the latest work from top online portfolios by creative professionals across industries.
 - **[CallToIdea](https://www.calltoidea.com/)** - Calltoidea is the unique place where you can find inspiration. A great tool created by a designer for web professionals.
@@ -173,7 +173,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Hyperpixel](https://hyperpixel.io/)** - Discover the latest designs for your own inspiration from our curated list of landing pages.
 - **[Inspirationde](https://www.inspirationde.com/)** - Inspirationde is an online source of design inspiration, photography, interior, web design, UI and UX, digital art, illustration, graphic design and much more.
 - **[Land-Book](https://land-book.com/)** - We collect awesome websites to help creatives find inspiration & motivation to do rad stuff.
-- **[Lapa Ninja](https://www.lapa.ninja/)** - The best landing page design inspiration from around the web. 
+- **[Lapa Ninja](https://www.lapa.ninja/)** - The best landing page design inspiration from around the web.
 - **[Muzli](https://muz.li/)** - Muzli is a new-tab Chrome extension that instantly delivers relevant design stories and inspiration.
 - **[OnePageLove](https://onepagelove.com/)** - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
 - **[Pttrns](https://pttrns.com/)** - Pttrns is the finest collection of mobile design patterns, resources and inspiration.
@@ -182,15 +182,15 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[UI Movement](https://uimovement.com/)** - The best UI design inspiration, every day.
 - **[Webframe](https://webframe.xyz/)** - Discover and be inspired by beautiful webapp designs
 
-### Colors 
+### Colors
 
 - **[Accessible Color Matrix](https://toolness.github.io/accessible-color-matrix/)** - A tool to help designers build color palettes with combinations that conform with accessibility standards.
 - **[Color.review](https://color.review/)** - A modern tool for exploring and finding accessible colors.
 - **[Colorable](https://colors.muz.li/)** - Color combination contrast tester.
 - **[Colorbook](https://www.colorbook.io/)** - Your hex color information and conversion source. We at colorbook have one mission: we want to give each color its place. Think of it as of a facebook of colors.
 - **[ColorBox](https://www.colorbox.io/)** - Colorbox is a color tool to produce color sets.
-- **[Color-hex](https://www.color-hex.com/color-palettes/)** - Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK). 
-- **[Color Designer](https://colordesigner.io/)** - Just pick a color, and the app does the rest.  
+- **[Color-hex](https://www.color-hex.com/color-palettes/)** - Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK).
+- **[Color Designer](https://colordesigner.io/)** - Just pick a color, and the app does the rest.
 - **[Color Hunt](https://colorhunt.co/)** - Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 - **[Colorinspire](https://www.colorinspire.io/)** - Curated color inspiration. Free to use for your next project.
 - **[Color Lisa](http://www.colorlisa.com/)** - Color palette masterpieces from the world's greatest artists.
@@ -212,7 +212,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Palettee app](https://palettte.app/)** - The definite palette editing and remapping tool.
 - **[Palx](https://palx.jxnblk.com/)** - Provide a single color value and Palx returns a full-spectrum color palette
 - **[Picular](https://picular.co/)** - A rocket fast primary color generator using Google's image search.
-- **[Tints and Shades generator](https://maketintsandshades.com/)** - Easily make tints and shades in 10% increments 
+- **[Tints and Shades generator](https://maketintsandshades.com/)** - Easily make tints and shades in 10% increments
 
 ### Gradients
 
@@ -254,7 +254,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 
 ### Animation Tools
 
-- **[Adobe After Effects](https://www.adobe.com/gr_en/products/aftereffects.html)** -  With After Effects CC, the industry-standard motion graphics and visual effects software, you can take any idea and make it move. 
+- **[Adobe After Effects](https://www.adobe.com/gr_en/products/aftereffects.html)** - With After Effects CC, the industry-standard motion graphics and visual effects software, you can take any idea and make it move.
 - **[Animate It](https://animateit.online/)** - Create GIFs and video animations easily on your own!
 - **[Animator by Haiku](https://www.haikuforteams.com/)** - Haiku Animator is the premier solution for creating cross-platform UI animations.
 - **[Anime.js](https://animejs.com/)** - Anime.js is a lightweight Javascript animation library designed to help you make complex animations with ease.
@@ -296,15 +296,15 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 ### UI Kits
 
 - **[Eva](https://eva.design/)** - Customizable Design System easily adaptable to your Brand. Available for Sketch with Mobile and Web component libraries.
-- **[UI Store](https://www.uistore.design/)** - 252 Free Handpicked UI Kits for your real life projects. 
-- **[Velocity UI Kit](https://www.invisionapp.com/inside-design/design-resources/design-system-dashboard-ui-kit/)** - A dashboard UI kit with a robust design system. 
+- **[UI Store](https://www.uistore.design/)** - 252 Free Handpicked UI Kits for your real life projects.
+- **[Velocity UI Kit](https://www.invisionapp.com/inside-design/design-resources/design-system-dashboard-ui-kit/)** - A dashboard UI kit with a robust design system.
 - **[Semantic UI kit for XD](https://theblog.adobe.com/semantic-ui-kit-xd-icons-templates-design-system/)** - Build your own custom design system with a free XD UI kit inspired by Semantic UI. Created by Ole Fredrik.
 - **[Square Dashboard UI kit](https://iconspace.co/product/square-dashboard-ui-kit/)** - Stylish dashboard UI kit for arious need
 
 ### User Flow Tools
 
-- **[Draw.io]()** - A cross-platform simple vector drawing tool. It’ll help you to create all these flowcharts, process diagrams, org charts, UML, ER, and network diagrams just in several minutes. 
-- **[Lucidchart]()** - A web-based tool for creating diagrams, flow charts, sitemaps. 
+- **[Draw.io]()** - A cross-platform simple vector drawing tool. It’ll help you to create all these flowcharts, process diagrams, org charts, UML, ER, and network diagrams just in several minutes.
+- **[Lucidchart]()** - A web-based tool for creating diagrams, flow charts, sitemaps.
 - **[Miro]()** - Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams.
 - **[Overflow]()** - A user flow diagramming tool tailored for designers.
 
@@ -326,7 +326,8 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[VisualEyes](https://www.visualeyes.design)** - Your virtual AI design assistant.
 - **[Upscale Pics](https://upscalepics.com/)** - Enhance your images using AI.
 
--------
+---
+
 ## License
 
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
