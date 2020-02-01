@@ -11,7 +11,7 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 ## Table of Contents
 
 1. [Stock Images](#stock-images)
-2. [Stock Videos](#stock-videos)z
+2. [Stock Videos](#stock-videos)
 3. [Icons](#icons)
 4. [Animated Icons](#animated-icons)
 5. [Fonts](#fonts)
