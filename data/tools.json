@@ -1,0 +1,14 @@
+{
+  "app": {
+    "name": "markdown-json",
+    "cwd": "./",
+    "src": "./scripts",
+    "filePattern": "./README.md",
+    "ignore": "*(icon|input)*",
+    "dist": "./data/tools.json",
+    "server": false,
+    "port": 3001,
+    "version": "1.4.1"
+  },
+  "data": []
+}

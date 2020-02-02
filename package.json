@@ -7,7 +7,8 @@
   "author": "Dimitris Raptis <dimitrisraptis96@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "tool:add": "node ./scripts/add-tool.js"
+    "tool:add": "node ./scripts/add-tool.js",
+    "parse": "node ./scripts/parseTools.js"
   },
   "dependencies": {
     "inquirer": "^7.0.4",
