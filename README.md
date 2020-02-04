@@ -146,7 +146,7 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 - **[Audi Design](https://www.audi.com/ci/en/guides/user-interface/introduction.html)** by [Audi](https://www.audi.com/en.html) - Audi user interfaces are as varied as their uses – ranging from inspiring websites to applications for a particular service.
 - **[Backpack](https://backpack.github.io/)** by [Skyscanner](https://www.skyscanner.net/) - Backpack is a collection of design resources, reusable components and guidelines for creating Skyscanner products.
 - **[Grommet](https://v2.grommet.io/)** by [HP Enterprise](https://www.hpe.com/emea_europe/en/home.html) - Build responsive and accessible mobile-first projects for the web with an easy to use component library.
-- **[IBM Carbon](https://www.carbondesignsystem.com/)** by [IBM Cloud products]() - The Carbon Design System is IBM’s open-source design system for products and experiences.
+- **[IBM Carbon](https://www.carbondesignsystem.com/)** by [IBM Cloud products](https://www.ibm.com/cloud/products) - The Carbon Design System is IBM’s open-source design system for products and experiences.
 - **[Lightning](https://www.lightningdesignsystem.com/)** by [SalesForce](https://www.salesforce.com/eu/) - Create the world’s best enterprise app experiences.
 - **[Mailchimp Patterns](https://ux.mailchimp.com/patterns)** by [Mailchimp](https://mailchimp.com/) - UX patterns by the Mailchimp design team.
 - **[Material UI](https://material-ui.com/)** by [Google](https://www.google.com/) - React components that implement Google's Material Design.
@@ -303,10 +303,10 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 
 ### User Flow Tools
 
-- **[Draw.io]()** - A cross-platform simple vector drawing tool. It’ll help you to create all these flowcharts, process diagrams, org charts, UML, ER, and network diagrams just in several minutes.
-- **[Lucidchart]()** - A web-based tool for creating diagrams, flow charts, sitemaps.
-- **[Miro]()** - Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams.
-- **[Overflow]()** - A user flow diagramming tool tailored for designers.
+- **[Draw.io](https://www.draw.io/)** - A cross-platform simple vector drawing tool. It’ll help you to create all these flowcharts, process diagrams, org charts, UML, ER, and network diagrams just in several minutes.
+- **[Lucidchart](https://www.lucidchart.com/pages/)** - A web-based tool for creating diagrams, flow charts, sitemaps.
+- **[Miro](https://miro.com/)** - Scalable, secure, cross-device and enterprise-ready team collaboration whiteboard for distributed teams.
+- **[Overflow](https://overflow.io/)** - A user flow diagramming tool tailored for designers.
 
 ### Creative Tools
 
