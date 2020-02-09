@@ -75,7 +75,6 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 - **[Nucleo app](https://nucleoapp.com/)** - Nucleo is a beautiful library of 26831 icons, and a powerful application to collect, customize and export all your icons.
 - **[Οutlane](https://outlane.co/graphics/animated-svg-icons-pack/)** - The pack includes 100 hand-crafted animated vector icons that you can use on any website or app.
 - **[Potlab Icons](http://www.potlabicons.com)** - Animated SVG icons for web projects.
-- **[Prefect Icons](http://www.perfecticons.com/)** - Download Free Perfect Vector Icons.
 - **[Remix Icons](https://remixicon.com/)** - Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
 - **[Slice](https://slice.design/glyphs)** - Various Perfectly Shaped Glyphs.
 - **[Streamline 3.0](https://streamlineicons.com)** - Over 10.500 in three different weight.
