@@ -125,7 +125,7 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 - **[IRA Design](https://iradesign.io/)** - With IRA Design, you can create amazing illustrations, using hand-drawn sketch components, a cool selection of 5 gradients and ai., svg. or png. formats.
 - **[Isometric](https://isometric.online/)** - Free isometric illustrations for designers, startups and companies
 - **[Isometric Love](https://www.isometriclove.com/)** - Cute isometric objects for your design.
-- **[Ηumaaans](https://www.humaaans.com/)** - Mix-&-match illustrations of people with a design library.
+- **[Humaaans](https://www.humaaans.com/)** - Mix-&-match illustrations of people with a design library.
 - **[Glaze Illustrations](https://www.glazestock.com)** - Free illustrations, for everything
 - **[Lukasz Adam](https://lukaszadam.com/illustrations)** - Free vector art illustrations and icons. Available for personal and commercial use.
 - **[ManyPixels](https://gallery.manypixels.co/)** - Each week, discover royalty-free illustrations to power up your projects.
@@ -150,7 +150,7 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 - **[Mailchimp Patterns](https://ux.mailchimp.com/patterns)** by [Mailchimp](https://mailchimp.com/) - UX patterns by the Mailchimp design team.
 - **[Material UI](https://material-ui.com/)** by [Google](https://www.google.com/) - React components that implement Google's Material Design.
 - **[Nachos](https://design.trello.com/)** by [Trello](https://trello.com/) - Nachos is Trello's design system (and also our favorite snack).
-- **[Plasma](https://github.com/wework/plasma)** by [WeWork](https://www.wework.com/) - Plasma is a design system for creating sensible, modern interfaces.
+- **[Plasma](http://plasma.guide/)** by [WeWork](https://www.wework.com/) - Plasma is a design system for creating sensible, modern interfaces.
 - **[Pluralsight](https://design-system.pluralsight.com/)** by [Pluralsight](https://www.pluralsight.com/) - The UI building blocks for creating a cohesive design across Pluralsight products
 - **[Polaris](https://polaris.shopify.com/)** by [Shopify](https://www.shopify.com/) - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
 - **[Primer](https://primer.style/)** by [Github](https://github.com/) - Resources, tooling, and design guidelines for building interfaces with GitHub’s design system.
