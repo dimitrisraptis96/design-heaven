@@ -101,7 +101,7 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 - **[FontPair](https://fontpair.co/)** - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
 - **[FontSpark](https://fontspark.app/)** - Helping designers discover the perfect font for their next design project.
 - **[FontSquirrel](https://www.fontsquirrel.com/)** - Font Squirrel scours the internet for high quality, legitimately free fonts.
-- **[Inter UI](https://github.com/rsms/inter/)** - Inter is a typeface specially designed for user interfaces.
+- **[Inter Font Family](https://rsms.me/inter/)** - Inter is a typeface specially designed for user interfaces.
 - **[Google Fonts](https://fonts.google.com/)** - Google Fonts is a library of 900 libre licensed fonts, an interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS and Android.
 - **[Google Noto Font](https://www.google.com/get/noto/)** - Beautiful and free fonts for all languages.
 - **[Leon Sans](https://leon-kim.com/)** - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
