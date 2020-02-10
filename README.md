@@ -2,9 +2,9 @@
 
 Stunning **free** design resources for designers and developer! :ok_hand:
 
-<a href="https://icons8.com/ouch">
+<a href="https://mixkit.co/@supriyabhonsle/">
   <p align="center">
-    <img src="assets/ouch.png" width="100%">
+    <img src="assets/exhausted-man.png" width="100%">
   </p>
 </a>
 
