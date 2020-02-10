@@ -1,6 +1,6 @@
 # DesignHeaven :angel:
 
-Stunning **free** design resources for designers and developer! :ok_hand:
+Stunning **free** design resources for designers and developer! Stop hitting your head down on a desk anymore :ok_hand:
 
 <a href="https://mixkit.co/@supriyabhonsle/">
   <p align="center">
