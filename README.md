@@ -1,10 +1,10 @@
 # DesignHeaven :angel:
 
-Stunning **free** design resources for designers and developer! :ok_hand:
+Stunning **free** design resources for designers and developer! Stop hitting your head down on a desk anymore :ok_hand:
 
-<a href="https://icons8.com/ouch">
+<a href="https://mixkit.co/@supriyabhonsle/">
   <p align="center">
-    <img src="assets/ouch.png" width="100%">
+    <img src="assets/exhausted-man.png" width="100%">
   </p>
 </a>
 
@@ -75,7 +75,6 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 - **[Nucleo app](https://nucleoapp.com/)** - Nucleo is a beautiful library of 26831 icons, and a powerful application to collect, customize and export all your icons.
 - **[Οutlane](https://outlane.co/graphics/animated-svg-icons-pack/)** - The pack includes 100 hand-crafted animated vector icons that you can use on any website or app.
 - **[Potlab Icons](http://www.potlabicons.com)** - Animated SVG icons for web projects.
-- **[Prefect Icons](http://www.perfecticons.com/)** - Download Free Perfect Vector Icons.
 - **[Remix Icons](https://remixicon.com/)** - Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
 - **[Slice](https://slice.design/glyphs)** - Various Perfectly Shaped Glyphs.
 - **[Streamline 3.0](https://streamlineicons.com)** - Over 10.500 in three different weight.
@@ -102,7 +101,7 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 - **[FontPair](https://fontpair.co/)** - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
 - **[FontSpark](https://fontspark.app/)** - Helping designers discover the perfect font for their next design project.
 - **[FontSquirrel](https://www.fontsquirrel.com/)** - Font Squirrel scours the internet for high quality, legitimately free fonts.
-- **[Inter UI](https://github.com/rsms/inter/)** - Inter is a typeface specially designed for user interfaces.
+- **[Inter Font Family](https://rsms.me/inter/)** - Inter is a typeface specially designed for user interfaces.
 - **[Google Fonts](https://fonts.google.com/)** - Google Fonts is a library of 900 libre licensed fonts, an interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS and Android.
 - **[Google Noto Font](https://www.google.com/get/noto/)** - Beautiful and free fonts for all languages.
 - **[Leon Sans](https://leon-kim.com/)** - Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
@@ -126,7 +125,7 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 - **[IRA Design](https://iradesign.io/)** - With IRA Design, you can create amazing illustrations, using hand-drawn sketch components, a cool selection of 5 gradients and ai., svg. or png. formats.
 - **[Isometric](https://isometric.online/)** - Free isometric illustrations for designers, startups and companies
 - **[Isometric Love](https://www.isometriclove.com/)** - Cute isometric objects for your design.
-- **[Ηumaaans](https://www.humaaans.com/)** - Mix-&-match illustrations of people with a design library.
+- **[Humaaans](https://www.humaaans.com/)** - Mix-&-match illustrations of people with a design library.
 - **[Glaze Illustrations](https://www.glazestock.com)** - Free illustrations, for everything
 - **[Lukasz Adam](https://lukaszadam.com/illustrations)** - Free vector art illustrations and icons. Available for personal and commercial use.
 - **[ManyPixels](https://gallery.manypixels.co/)** - Each week, discover royalty-free illustrations to power up your projects.
@@ -151,7 +150,7 @@ Stunning **free** design resources for designers and developer! :ok_hand:
 - **[Mailchimp Patterns](https://ux.mailchimp.com/patterns)** by [Mailchimp](https://mailchimp.com/) - UX patterns by the Mailchimp design team.
 - **[Material UI](https://material-ui.com/)** by [Google](https://www.google.com/) - React components that implement Google's Material Design.
 - **[Nachos](https://design.trello.com/)** by [Trello](https://trello.com/) - Nachos is Trello's design system (and also our favorite snack).
-- **[Plasma](https://github.com/wework/plasma)** by [WeWork](https://www.wework.com/) - Plasma is a design system for creating sensible, modern interfaces.
+- **[Plasma](http://plasma.guide/)** by [WeWork](https://www.wework.com/) - Plasma is a design system for creating sensible, modern interfaces.
 - **[Pluralsight](https://design-system.pluralsight.com/)** by [Pluralsight](https://www.pluralsight.com/) - The UI building blocks for creating a cohesive design across Pluralsight products
 - **[Polaris](https://polaris.shopify.com/)** by [Shopify](https://www.shopify.com/) - Our design system helps us work together to build a great experience for all of Shopify’s merchants.
 - **[Primer](https://primer.style/)** by [Github](https://github.com/) - Resources, tooling, and design guidelines for building interfaces with GitHub’s design system.
@@ -192,7 +191,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Color-hex](https://www.color-hex.com/color-palettes/)** - Color-hex gives information about colors including color models (RGB,HSL,HSV and CMYK).
 - **[Color Designer](https://colordesigner.io/)** - Just pick a color, and the app does the rest.
 - **[Color Hunt](https://colorhunt.co/)** - Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
-- **[Colorinspire](https://www.colorinspire.io/)** - Curated color inspiration. Free to use for your next project.
+- **[Colorinspire](https://colorinspire.webflow.io/)** - Curated color inspiration. Free to use for your next project.
 - **[Color Lisa](http://www.colorlisa.com/)** - Color palette masterpieces from the world's greatest artists.
 - **[Color Quote](https://www.felixjoy.co/colorquote#color-hero)** - Daily dose of color combination and inspirational quote cards for designers and developers.
 - **[Color Safe](http://colorsafe.co/)** - Empowering designers with beautiful and accessible color palettes based on WCAG Guidelines of text and background contrast ratios.
@@ -216,11 +215,11 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 
 ### Gradients
 
+- **[CSS Gradient](https://cssgradient.io/)** - Create a colorful gradient background for your website, blog, or social media profile.
 - **[Eggradients](https://www.eggradients.com/)** - A gradient color palette containing +200 gradient background color.
 - **[Grabient](https://www.grabient.com/)** - Beautiful and simple UI for generating web gradients.
 - **[Gradient Backgrounds](https://cssgradient.io/gradient-backgrounds/)** - A curated list of the best gradient websites across the internet.
 - **[Gradient Cards](https://gradients.cssgears.com)** - A simple and beautiful list of editable gradients.
-- **[Gradients.io](http://www.gradients.io/)** - Curated gradients for designers and developers.
 - **[GradientsList](https://www.gradientslist.com)** - Gradients List is the biggest collection of gradients on the web.
 - **[uiGradients](https://uigradients.com/#IbizaSunset)** - A handpicked collection of beautiful color gradients for designers and developers.
 - **[WebGradients](https://webgradients.com/)** - WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
@@ -255,11 +254,10 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 ### Animation Tools
 
 - **[Adobe After Effects](https://www.adobe.com/gr_en/products/aftereffects.html)** - With After Effects CC, the industry-standard motion graphics and visual effects software, you can take any idea and make it move.
-- **[Animate It](https://animateit.online/)** - Create GIFs and video animations easily on your own!
 - **[Animator by Haiku](https://www.haikuforteams.com/)** - Haiku Animator is the premier solution for creating cross-platform UI animations.
 - **[Anime.js](https://animejs.com/)** - Anime.js is a lightweight Javascript animation library designed to help you make complex animations with ease.
 - **[Animista](http://animista.net/)** - Animista is a place where you can play with a collection of ready to use CSS animations, tweak them and download only those you will actually use.
-- **[CSSFX](https://cssfx.dev/)** - Beautifully simple click-to-copy CSS effects
+- **[CSSFX](https://cssfx.netlify.com/)** - Beautifully simple click-to-copy CSS effects
 - **[Drawer](https://drawer.design)** - A high-quality collection of Lottie animations and SVG Illustrations.
 - **[Easings](https://easings.net/)** - Easing functions specify the rate of change of a parameter over time.
 - **[Flinto](https://www.flinto.com/)** - Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
