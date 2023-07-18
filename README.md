@@ -47,6 +47,8 @@ Stunning **free** design resources for designers and developer! Stop hitting you
 - **[reshot](https://www.reshot.com/)** - Handpicked, non-stocky images. Yours to use as you wish.
 - **[StockSnap](https://stocksnap.io/)** - High quality and high resolution stock images free from all copyright restrictions(CC0).
 - **[Unsplash](https://unsplash.com/)** - Beautiful, free images and photos that you can download and use for any project.
+- **[Picsum](https://picsum.photos/)** - Dynamic, free random pics and images that you can use and download for any project.
+- **[Mixkit](https://mixkit.co/)** - Beautiful, free random images and videos that you can use and download for any project .
 
 ### Stock Videos
 
