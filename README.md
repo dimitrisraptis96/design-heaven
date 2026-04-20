@@ -101,6 +101,7 @@ Stunning **free** design resources for designers and developer! Stop hitting you
 - **[FontPair](https://fontpair.co/)** - Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
 - **[FontSpark](https://fontspark.app/)** - Helping designers discover the perfect font for their next design project.
 - **[FontSquirrel](https://www.fontsquirrel.com/)** - Font Squirrel scours the internet for high quality, legitimately free fonts.
+- **[FontsWiki](https://fontswiki.com/)** - Free typography resource with font downloads, pairing guides, and font-in-use references.
 - **[Inter Font Family](https://rsms.me/inter/)** - Inter is a typeface specially designed for user interfaces.
 - **[Google Fonts](https://fonts.google.com/)** - Google Fonts is a library of 900 libre licensed fonts, an interactive web directory for browsing the library, and APIs for conveniently using the fonts via CSS and Android.
 - **[Google Noto Font](https://www.google.com/get/noto/)** - Beautiful and free fonts for all languages.
