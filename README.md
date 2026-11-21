@@ -231,6 +231,7 @@ For more, [click here](http://repository.design/) or [hit this](https://designsy
 - **[Photoshop](https://www.adobe.com/products/photoshop.html)** - The industry standard in digital imaging and used by professionals worldwide for design, photography, video editing & more.
 - **[Procreate](https://procreate.art/)** - Procreate is the most powerful and intuitive digital illustration app available for iPad.
 - **[Lunacy](https://icons8.com/lunacy)** - Free graphic design software with built-in design resources.
+- **[PixelArtHive](https://pixelarthive.com/)** - Free browser-based image-to-pixel-art conversion and pixel art upscaling, with local image processing.
 
 ### Prototyping Tools
 
